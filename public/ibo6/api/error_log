@@ -1,0 +1,6 @@
+[21-May-2023 05:20:31 Asia/Singapore] PHP Warning:  Invalid argument supplied for foreach() in /home/cyberya1/panel.cyberyakku.com/demo/RTXibo/api/sport.php on line 22
+[21-May-2023 05:40:42 Asia/Singapore] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, no such table: sports in /home/cyberya1/panel.cyberyakku.com/demo/RTXibo/api/sport.php on line 27
+[21-May-2023 05:40:42 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to a member function fetchArray() on bool in /home/cyberya1/panel.cyberyakku.com/demo/RTXibo/api/sport.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cyberya1/panel.cyberyakku.com/demo/RTXibo/api/sport.php on line 28

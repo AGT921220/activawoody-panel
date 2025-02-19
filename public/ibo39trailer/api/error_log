@@ -1,0 +1,20 @@
+[17-Feb-2025 19:34:09 America/Mexico_City] PHP Warning:  Undefined array key 0 in /home3/activawu/wstream.activawudy.com/ibo39trailer/api/auth.php on line 29
+[17-Feb-2025 19:34:09 America/Mexico_City] PHP Warning:  Trying to access array offset on null in /home3/activawu/wstream.activawudy.com/ibo39trailer/api/auth.php on line 29
+[17-Feb-2025 19:34:09 America/Mexico_City] PHP Warning:  Undefined array key 0 in /home3/activawu/wstream.activawudy.com/ibo39trailer/api/auth.php on line 29
+[17-Feb-2025 19:34:09 America/Mexico_City] PHP Warning:  Trying to access array offset on null in /home3/activawu/wstream.activawudy.com/ibo39trailer/api/auth.php on line 29
+[17-Feb-2025 19:34:09 America/Mexico_City] PHP Warning:  Undefined array key 0 in /home3/activawu/wstream.activawudy.com/ibo39trailer/api/auth.php on line 46
+[17-Feb-2025 19:34:09 America/Mexico_City] PHP Warning:  Trying to access array offset on null in /home3/activawu/wstream.activawudy.com/ibo39trailer/api/auth.php on line 46
+[17-Feb-2025 19:36:18 America/Mexico_City] PHP Warning:  Undefined variable $api_key in /home3/activawu/wstream.activawudy.com/ibo39trailer/api/movies.php on line 38
+[17-Feb-2025 19:36:18 America/Mexico_City] PHP Warning:  Undefined variable $api_key in /home3/activawu/wstream.activawudy.com/ibo39trailer/api/movies.php on line 47
+[17-Feb-2025 19:36:18 America/Mexico_City] PHP Warning:  Undefined array key "results" in /home3/activawu/wstream.activawudy.com/ibo39trailer/api/movies.php on line 59
+[17-Feb-2025 19:36:18 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home3/activawu/wstream.activawudy.com/ibo39trailer/api/movies.php:59
+Stack trace:
+#0 {main}
+  thrown in /home3/activawu/wstream.activawudy.com/ibo39trailer/api/movies.php on line 59
+[17-Feb-2025 19:36:18 America/Mexico_City] PHP Warning:  Undefined variable $api_key in /home3/activawu/wstream.activawudy.com/ibo39trailer/api/movies.php on line 38
+[17-Feb-2025 19:36:18 America/Mexico_City] PHP Warning:  Undefined variable $api_key in /home3/activawu/wstream.activawudy.com/ibo39trailer/api/movies.php on line 47
+[17-Feb-2025 19:36:18 America/Mexico_City] PHP Warning:  Undefined array key "results" in /home3/activawu/wstream.activawudy.com/ibo39trailer/api/movies.php on line 59
+[17-Feb-2025 19:36:18 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home3/activawu/wstream.activawudy.com/ibo39trailer/api/movies.php:59
+Stack trace:
+#0 {main}
+  thrown in /home3/activawu/wstream.activawudy.com/ibo39trailer/api/movies.php on line 59

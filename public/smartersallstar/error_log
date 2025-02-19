@@ -1,0 +1,27 @@
+[24-Jun-2023 00:29:25 America/Chicago] PHP Warning:  unlink(): No such file or directory in /home/btxcouk/public_html/pacman/adverts.php on line 55
+[24-Jun-2023 00:29:25 America/Chicago] PHP Warning:  SQLite3Result::fetchArray(): The SQLite3Result object has not been correctly initialised in /home/btxcouk/public_html/pacman/adverts.php on line 92
+[24-Jun-2023 00:31:29 America/Chicago] PHP Warning:  SQLite3::exec(): table ads has no column named CreateDate in /home/btxcouk/public_html/pacman/adverts.php on line 21
+[24-Jun-2023 00:34:24 America/Chicago] PHP Warning:  SQLite3::exec(): table ads has no column named CreateDate in /home/btxcouk/public_html/pacman/adverts.php on line 21
+[24-Jun-2023 00:34:59 America/Chicago] PHP Warning:  SQLite3::exec(): table ads has no column named CreateDate in /home/btxcouk/public_html/pacman/adverts.php on line 21
+[18-Nov-2023 09:25:20 America/Chicago] PHP Warning:  SQLite3Result::fetchArray(): The SQLite3Result object has not been correctly initialised in /home/curskhmj/public_html/apps2025/smarv3/pacman/adverts.php on line 75
+[13-Feb-2025 21:39:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersallstar/includes/header.php:56) in /home3/activawu/wstream.activawudy.com/smartersallstar/dns.php on line 49
+[13-Feb-2025 21:39:54 America/Chicago] PHP Fatal error:  Uncaught Error: The SQLite3Result object has not been correctly initialised or is already closed in /home3/activawu/wstream.activawudy.com/smartersallstar/dns.php:69
+Stack trace:
+#0 /home3/activawu/wstream.activawudy.com/smartersallstar/dns.php(69): SQLite3Result->fetchArray()
+#1 {main}
+  thrown in /home3/activawu/wstream.activawudy.com/smartersallstar/dns.php on line 69
+[13-Feb-2025 21:40:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersallstar/includes/header.php:56) in /home3/activawu/wstream.activawudy.com/smartersallstar/dns.php on line 44
+[13-Feb-2025 21:44:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersallstar/includes/header.php:56) in /home3/activawu/wstream.activawudy.com/smartersallstar/adverts.php on line 49
+[13-Feb-2025 21:44:13 America/Chicago] PHP Fatal error:  Uncaught Error: The SQLite3Result object has not been correctly initialised or is already closed in /home3/activawu/wstream.activawudy.com/smartersallstar/adverts.php:75
+Stack trace:
+#0 /home3/activawu/wstream.activawudy.com/smartersallstar/adverts.php(75): SQLite3Result->fetchArray()
+#1 {main}
+  thrown in /home3/activawu/wstream.activawudy.com/smartersallstar/adverts.php on line 75
+[13-Feb-2025 21:44:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersallstar/includes/header.php:56) in /home3/activawu/wstream.activawudy.com/smartersallstar/adverts.php on line 49
+[13-Feb-2025 21:44:19 America/Chicago] PHP Fatal error:  Uncaught Error: The SQLite3Result object has not been correctly initialised or is already closed in /home3/activawu/wstream.activawudy.com/smartersallstar/adverts.php:75
+Stack trace:
+#0 /home3/activawu/wstream.activawudy.com/smartersallstar/adverts.php(75): SQLite3Result->fetchArray()
+#1 {main}
+  thrown in /home3/activawu/wstream.activawudy.com/smartersallstar/adverts.php on line 75
+[13-Feb-2025 21:44:50 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersallstar/includes/header.php:56) in /home3/activawu/wstream.activawudy.com/smartersallstar/adverts.php on line 44
+[13-Feb-2025 21:45:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersallstar/includes/header.php:56) in /home3/activawu/wstream.activawudy.com/smartersallstar/note.php on line 44

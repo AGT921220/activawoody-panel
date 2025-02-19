@@ -1,0 +1,24 @@
+RewriteEngine on
+
+# Asegurar que la solicitud no es para un directorio y que el archivo PHP existe
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L]
+
+# Configurar el tipo MIME para archivos .html y .htm como PHP
+AddType application/x-httpd-php .html .htm
+
+# Proteger el archivo .db.db
+<Files ".db.db">
+Order Allow,Deny
+Deny from all
+</Files>
+
+# Desactivar la herencia de reglas desde el .htaccess de la raíz
+RewriteOptions inherit
+
+# Desactivar la indexación de directorios
+Options -Indexes
+
+# Configurar la página de inicio por defecto específica para tu aplicación
+DirectoryIndex index.php

@@ -1,0 +1,11 @@
+[26-May-2022 06:15:40 UTC] PHP Warning:  Use of undefined constant HTTP_USER_AGENT - assumed 'HTTP_USER_AGENT' (this will throw an Error in a future version of PHP) in /home/tpanels/public_html/adspanel/api/index.php on line 155
+[26-May-2022 06:30:24 UTC] PHP Warning:  Use of undefined constant HTTP_USER_AGENT - assumed 'HTTP_USER_AGENT' (this will throw an Error in a future version of PHP) in /home/tpanels/public_html/adspanel/api/index.php on line 155
+[05-Sep-2023 20:24:43 Asia/Singapore] PHP Warning:  file_get_contents(filenames.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/api/bg.php on line 4
+[05-Sep-2023 20:24:43 Asia/Singapore] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/api/bg.php on line 8
+[05-Sep-2023 20:24:43 Asia/Singapore] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/api/bg.php on line 8
+[05-Sep-2023 20:25:17 Asia/Singapore] PHP Warning:  file_get_contents(./Background/filenames.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/api/bg.php on line 4
+[05-Sep-2023 20:25:17 Asia/Singapore] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/api/bg.php on line 8
+[05-Sep-2023 20:25:17 Asia/Singapore] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/api/bg.php on line 8
+[05-Sep-2023 20:25:18 Asia/Singapore] PHP Warning:  file_get_contents(./Background/filenames.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/api/bg.php on line 4
+[05-Sep-2023 20:25:18 Asia/Singapore] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/api/bg.php on line 8
+[05-Sep-2023 20:25:18 Asia/Singapore] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/api/bg.php on line 8

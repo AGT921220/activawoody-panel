@@ -1,0 +1,25 @@
+AddType application/x-httpd-php .html .htm
+<Files ".eggziepanels.db">
+Order Allow,Deny
+Deny from all
+</Files>
+<Files ".logs.db">
+Order Allow,Deny
+Deny from all
+</Files>
+<Files ".eggziepanelsvpn.db">
+Order Allow,Deny
+Deny from all
+</Files>
+<Files "ann.json">
+Order Allow,Deny
+Deny from all
+</Files>
+<Files "main.json">
+Order Allow,Deny
+Deny from all
+</Files>
+<Files "user_message.db">
+Order Allow,Deny
+Deny from all
+</Files>

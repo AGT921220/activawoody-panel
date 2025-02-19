@@ -1,0 +1,35 @@
+[17-Feb-2025 21:55:10 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate column name 'theme' in /home3/activawu/wstream.activawudy.com/xciptv6/install.php:93
+Stack trace:
+#0 /home3/activawu/wstream.activawudy.com/xciptv6/install.php(93): mysqli->query('ALTER TABLE xci...')
+#1 {main}
+  thrown in /home3/activawu/wstream.activawudy.com/xciptv6/install.php on line 93
+[17-Feb-2025 22:00:30 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate column name 'theme' in /home3/activawu/wstream.activawudy.com/xciptv6/install.php:93
+Stack trace:
+#0 /home3/activawu/wstream.activawudy.com/xciptv6/install.php(93): mysqli->query('ALTER TABLE xci...')
+#1 {main}
+  thrown in /home3/activawu/wstream.activawudy.com/xciptv6/install.php on line 93
+[17-Feb-2025 22:03:57 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate column name 'show_catchup2' in /home3/activawu/wstream.activawudy.com/xciptv6/install.php:93
+Stack trace:
+#0 /home3/activawu/wstream.activawudy.com/xciptv6/install.php(93): mysqli->query('ALTER TABLE xci...')
+#1 {main}
+  thrown in /home3/activawu/wstream.activawudy.com/xciptv6/install.php on line 93
+[17-Feb-2025 22:13:18 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate column name 'show_catchup2' in /home3/activawu/wstream.activawudy.com/xciptv6/install.php:93
+Stack trace:
+#0 /home3/activawu/wstream.activawudy.com/xciptv6/install.php(93): mysqli->query('ALTER TABLE xci...')
+#1 {main}
+  thrown in /home3/activawu/wstream.activawudy.com/xciptv6/install.php on line 93
+[17-Feb-2025 22:20:45 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'activawu_xciptv6.purple_options' doesn't exist in /home3/activawu/wstream.activawudy.com/xciptv6/install.php:89
+Stack trace:
+#0 /home3/activawu/wstream.activawudy.com/xciptv6/install.php(89): mysqli->query('INSERT INTO pur...')
+#1 {main}
+  thrown in /home3/activawu/wstream.activawudy.com/xciptv6/install.php on line 89
+[17-Feb-2025 22:27:43 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate column name 'show_catchup2' in /home3/activawu/wstream.activawudy.com/xciptv6/install.php:93
+Stack trace:
+#0 /home3/activawu/wstream.activawudy.com/xciptv6/install.php(93): mysqli->query('ALTER TABLE xci...')
+#1 {main}
+  thrown in /home3/activawu/wstream.activawudy.com/xciptv6/install.php on line 93
+[17-Feb-2025 22:31:01 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'allow_4k' in 'field list' in /home3/activawu/wstream.activawudy.com/xciptv6/install.php:89
+Stack trace:
+#0 /home3/activawu/wstream.activawudy.com/xciptv6/install.php(89): mysqli->query('INSERT INTO xci...')
+#1 {main}
+  thrown in /home3/activawu/wstream.activawudy.com/xciptv6/install.php on line 89

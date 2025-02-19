@@ -1,0 +1,166 @@
+.vanta-canvas{
+	position:fixed !important;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	height:100% !important;
+}
+.ctlogin-box{
+	position:absolute;
+	left:50%;
+	top:50%;
+	transform:translate(-50%, -50%);
+	width:100%;
+}
+.ctlogin-main{
+	background:#222222b3;
+}
+.ctleft{
+	width:40%;
+	padding:40px;
+	background:#222;
+	display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.ctright{
+	width:60%;
+	padding:40px;
+}
+.loadIn{
+	color:#fff;
+	text-align: center;
+    font-size: 27px;
+	font-weight:bold;
+}
+.ctright p{
+	color:#858383;
+	text-align:center;
+}
+.ctinput label{
+	color:#858383;
+}
+
+.ctinput input, .ctinput select{
+display: block;
+    width: 100%;
+    height: calc(1.5em + 0.75rem + 2px);
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #a9aab0;
+    background-color: #343740;
+    background-clip: padding-box;
+    border: 1px solid #3a3b42;
+    border-radius: 0.35rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+
+}
+.ctinput input:focus,
+.ctinput select:focus{
+    color: #6e707e;
+    background-color: #1d2426;
+    border-color: #343740;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(52, 52, 64, 0.25);
+	
+}
+.ctbtn{
+	background:#000 !important;
+	outline:none;
+	border:none;
+	box-shadow:0;
+	color:#fff !important;
+	margin-top: 30px;
+}
+.ctbtn:focus{
+	border:none;
+	box-shadow:none !important;
+}
+.ctlogin-foot{
+	color:#fff;
+	text-align:center;
+	margin-top:30px;
+}
+.ctlogin-foot a{
+	color:#fff;
+	text-decoration:none;
+	transition:0.3s;
+}
+.ctlogin-foot a:hover{
+	color:#422ad0;
+}
+.ctnav{
+	background:#303030;
+	padding: 0.95rem 1rem;
+}
+.sidebar-logo img{
+	width:150px;
+}
+#sidebar-wrapper{
+	background:#303030;
+	position:relative;
+}
+#sidebar-wrapper .list-group-item.list-group-item-action i{
+	margin-right:7px;
+} 
+.ctluser-main{
+	background: #222222b3;
+}
+.ctheading{
+	background: #222222b3;
+}
+.ctheading h2{
+	font-weight: bold;
+    text-transform: uppercase;
+    font-size: 28px;
+    margin-bottom: 0;
+    padding: 10px 0;
+}
+.ctheading h2 i{
+	margin-right:7px;
+}
+.ctalert{
+	background:#000 !important;
+	border-radius:0;
+	padding:20px 25px !important;
+}
+.ctalert h3{
+	color: #fff;
+}
+.ctuserbtn{
+	text-transform:uppercase;
+	font-weight:bold;
+	padding:12px 25px;
+}
+.ctuserbtn i{
+	margin-right:5px;
+}
+.ctcard{
+	background: #222222b3;
+}
+.table-sm th, .table-sm td {
+    padding: 5px 15px;
+    vertical-align: middle;
+}
+.ctaddnew{
+	padding:10px;
+}
+.ctaddnew center{
+	text-align:start;
+}
+.ctinput.ctfile input{
+	padding:3px;
+}
+.ctapplogo img{
+	width: 100%;
+    object-fit: contain;
+}
+.ctappbg img{
+	width:100%;
+    object-fit: contain;
+	
+}

@@ -1,0 +1,14 @@
+[29-Sep-2023 02:56:13 Asia/Singapore] PHP Notice:  Undefined index: a in /home/cyberya1/panel.cyberyakku.com/workshop/RTXSmarters/ads/info.php on line 3
+[29-Sep-2023 02:56:13 Asia/Singapore] PHP Notice:  Undefined index: b in /home/cyberya1/panel.cyberyakku.com/workshop/RTXSmarters/ads/info.php on line 3
+[29-Sep-2023 02:56:13 Asia/Singapore] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/cyberya1/panel.cyberyakku.com/workshop/RTXSmarters/ads/info.php on line 3
+[29-Sep-2023 02:56:13 Asia/Singapore] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/cyberya1/panel.cyberyakku.com/workshop/RTXSmarters/ads/info.php on line 3
+[29-Sep-2023 02:56:25 Asia/Singapore] PHP Notice:  Undefined index: a in /home/cyberya1/panel.cyberyakku.com/workshop/RTXSmarters/ads/info.php on line 3
+[29-Sep-2023 02:56:25 Asia/Singapore] PHP Notice:  Undefined index: b in /home/cyberya1/panel.cyberyakku.com/workshop/RTXSmarters/ads/info.php on line 3
+[29-Sep-2023 02:56:25 Asia/Singapore] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/cyberya1/panel.cyberyakku.com/workshop/RTXSmarters/ads/info.php on line 3
+[29-Sep-2023 02:56:25 Asia/Singapore] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/cyberya1/panel.cyberyakku.com/workshop/RTXSmarters/ads/info.php on line 3
+[29-Sep-2023 02:57:06 Asia/Singapore] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/cyberya1/panel.cyberyakku.com/workshop/RTXSmarters/ads/lol.php on line 176
+[29-Sep-2023 02:57:10 Asia/Singapore] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/cyberya1/panel.cyberyakku.com/workshop/RTXSmarters/ads/lol.php on line 176
+[01-Oct-2023 16:59:52 Asia/Singapore] PHP Notice:  Undefined index: a in /home/cyberya1/panel.cyberyakku.com/workshop/RTXSmarters/ads/info.php on line 3
+[01-Oct-2023 16:59:52 Asia/Singapore] PHP Notice:  Undefined index: b in /home/cyberya1/panel.cyberyakku.com/workshop/RTXSmarters/ads/info.php on line 3
+[01-Oct-2023 16:59:52 Asia/Singapore] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/cyberya1/panel.cyberyakku.com/workshop/RTXSmarters/ads/info.php on line 3
+[01-Oct-2023 16:59:52 Asia/Singapore] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/cyberya1/panel.cyberyakku.com/workshop/RTXSmarters/ads/info.php on line 3

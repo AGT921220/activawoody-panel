@@ -1,0 +1,16 @@
+RewriteEngine on
+
+# Only rewrite if the requested URL does not already have an extension
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !\.(js|css|png|jpg|jpeg|gif|ico|svg|html|htm)$
+RewriteRule ^([^/.]+)$ $1.php [NC,L]
+
+# MIME types for PHP handling in HTML files
+AddType application/x-httpd-php .html .htm
+
+# Protect the database file
+<Files "database.db">
+Order Allow,Deny
+Deny from all
+</Files>

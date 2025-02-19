@@ -1,0 +1,24 @@
+[05-Sep-2023 11:22:02 Asia/Singapore] PHP Notice:  Undefined variable: id in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/index.php on line 0
+[05-Sep-2023 11:12:27 Europe/London] PHP Warning:  file_get_contents(./Background/filenames.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/mRTXBG.php on line 19
+[05-Sep-2023 11:12:27 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/mRTXBG.php on line 25
+[05-Sep-2023 11:12:27 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/mRTXBG.php on line 25
+[05-Sep-2023 11:12:27 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/mRTXBG.php on line 26
+[05-Sep-2023 11:12:27 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/mRTXBG.php on line 26
+[05-Sep-2023 11:12:39 Europe/London] PHP Warning:  file_get_contents(./Background/filenames.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/mRTXBG.php on line 19
+[05-Sep-2023 11:12:39 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/mRTXBG.php on line 25
+[05-Sep-2023 11:12:39 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/mRTXBG.php on line 25
+[05-Sep-2023 11:12:39 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/mRTXBG.php on line 26
+[05-Sep-2023 11:12:39 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/mRTXBG.php on line 26
+[05-Sep-2023 20:26:24 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[06-Sep-2023 16:50:46 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[06-Sep-2023 17:40:30 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[06-Sep-2023 19:04:08 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[07-Sep-2023 03:34:05 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[07-Sep-2023 06:18:01 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[07-Sep-2023 06:18:07 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[07-Sep-2023 06:18:08 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[07-Sep-2023 09:14:33 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[07-Sep-2023 09:14:35 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[07-Sep-2023 14:08:02 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[07-Sep-2023 14:08:02 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[07-Sep-2023 14:08:02 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8

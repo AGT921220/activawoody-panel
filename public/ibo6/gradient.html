@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!--Meta Tags-->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="A free CSS gradient generator tool to create amazing of gradient background variations for your website fast and easy. Also it comes with a powerful editor." />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="og:title" content="CSS Gradient Generator" />
+    <meta property="og:description" content="A free CSS gradient generator tool to create amazing of gradient background variations for your website fast and easy. Also it comes with a powerful editor." />
+    <meta property="og:image" content="assets/images/css-gradient-generator-card.png" />
+    <meta
+      property="og:url"
+      content="css-gradient-generator.html"
+    />
+    <!--Title-->
+    <title>CSS Gradient Generator</title>
+    <!--Common-->
+    <base  />
+<link rel="icon" type="image/png" href="assets/images/favico.png" />
+<link rel="stylesheet" href="assets/styles/main3860.css?v=1" />
+<link rel="stylesheet" href="assets/styles/icons.css" />
+<script src="assets/scripts/main.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<style>
+    .invisible-div {
+      display: none;
+    }
+  </style>
+<script
+  async
+  src="https://www.googletagmanager.com/gtag/js?id=G-6GKSN86029"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "G-6GKSN86029");
+</script>
+    <!--Styles-->
+    <link rel="stylesheet" href="assets/styles/tools/main.css" />
+    <link
+      rel="stylesheet"
+      href="assets/styles/tools/css-gradient-generator.css"
+    />
+    <link rel="stylesheet" href="assets/styles/lib/pickr.classic.css" />
+    <link rel="stylesheet" href="assets/styles/lib/circle-slider.css" />
+    <link rel="stylesheet" href="assets/styles/lib/highlight.css" />
+    <link rel="stylesheet" href="assets/styles/utils/code-view3860.css?v=1" />
+    <!--Scripts-->
+    <script src="assets/scripts/lib/pickr.min.js"></script>
+    <script src="assets/scripts/lib/jquery.min.js"></script>
+    <script src="assets/scripts/lib/jqueryui.min.js"></script>
+    <script src="assets/scripts/lib/jqueryui-slider-pips.min.js"></script>
+    <script src="assets/scripts/lib/highlight.js"></script>
+  </head>
+  <body>
+
+
+    <!--Article-->
+    <article>
+      <div class="tool-main">
+        <div class="tool-main-left">
+          <div class="group">
+            <div class="group-header">
+              <p>Presets</p>
+              <div></div>
+            </div>
+            <div class="group-content presets-grid">
+              <button
+                data-type="linear"
+                data-colors='[{"color": "#232526","pos": 0},{"color": "#414345","pos": 100}]'
+                data-angle="90"
+                class="preset-btn"
+                onclick="usePreset(this)"
+              ></button>
+              <button
+                data-type="linear"
+                data-colors='[{"color": "#D3CCE3","pos": 0},{"color": "#E9E4F0","pos": 100}]'
+                data-angle="90"
+                class="preset-btn"
+                onclick="usePreset(this)"
+              ></button>
+              <button
+                data-type="linear"
+                data-colors='[{"color": "#1CD8D2","pos": 0},{"color": "#93EDC7","pos": 100}]'
+                data-angle="90"
+                class="preset-btn"
+                onclick="usePreset(this)"
+              ></button>
+              <button
+                data-type="linear"
+                data-colors='[{"color": "#12c2e9","pos": 0},{"color": "#c471ed","pos": 50},{"color": "#f64f59","pos": 100}]'
+                data-angle="90"
+                class="preset-btn"
+                onclick="usePreset(this)"
+              ></button>
+              <button
+                data-type="linear"
+                data-colors='[{"color": "#4776E6","pos": 0},{"color": "#8E54E9","pos": 100}]'
+                data-angle="90"
+                class="preset-btn"
+                onclick="usePreset(this)"
+              ></button>
+              <button
+                data-type="linear"
+                data-colors='[{"color": "#FF8008","pos": 0},{"color": "#FFC837","pos": 100}]'
+                data-angle="90"
+                class="preset-btn"
+                onclick="usePreset(this)"
+                data-radialPos="center center"
+              ></button>
+              <button
+                data-type="linear"
+                data-colors='[{"color": "#EB3349","pos": 0},{"color": "#F45C43","pos": 100}]'
+                data-angle="90"
+                class="preset-btn"
+                onclick="usePreset(this)"
+                data-radialPos="center center"
+              ></button>
+              <button
+                data-type="radial"
+                data-colors='[{"color": "#583399","pos": 0},{"color": "#D300FF","pos": 100}]'
+                data-angle="90"
+                class="preset-btn"
+                onclick="usePreset(this)"
+                data-radialPos="center center"
+              ></button>
+              <button
+                data-type="radial"
+                data-colors='[{"color": "#ffa751","pos": 0},{"color": "#ffe259","pos": 100}]'
+                data-angle="0"
+                class="preset-btn"
+                onclick="usePreset(this)"
+                data-radialPos="center center"
+              ></button>
+              <button
+                data-type="radial"
+                data-colors='[{"color": "#FFA454","pos": 0},{"color": "#CAE545","pos": 50},{"color": "#68FF64","pos": 100}]'
+                data-angle="90"
+                class="preset-btn"
+                onclick="usePreset(this)"
+                data-radialPos="center center"
+              ></button>
+              <button
+                data-type="radial"
+                data-colors='[{"color": "#cbcaa5","pos": 0},{"color": "#334d50","pos": 100}]'
+                data-angle="90"
+                class="preset-btn"
+                onclick="usePreset(this)"
+                data-radialPos="center center"
+              ></button>
+              <button
+                data-type="radial"
+                data-colors='[{"color": "#00E0F7","pos": 0},{"color": "#64F38C","pos": 100}]'
+                data-angle="90"
+                class="preset-btn"
+                onclick="usePreset(this)"
+                data-radialPos="center center"
+              ></button>
+              <button
+                data-type="radial"
+                data-colors='[{"color": "#99f2c8","pos": 0},{"color": "#1f4037","pos": 100}]'
+                data-angle="90"
+                class="preset-btn"
+                onclick="usePreset(this)"
+                data-radialPos="center center"
+              ></button>
+              <button
+                data-type="radial"
+                data-colors='[{"color": "#8E2DE2","pos": 0},{"color": "#4A00E0","pos": 100}]'
+                data-angle="0"
+                class="preset-btn"
+                onclick="usePreset(this)"
+                data-radialPos="center center"
+              ></button>
+            </div>
+            <div class="presets-container"></div>
+          </div>
+          <div class="group">
+            <div class="group-header">
+              <p>Gradient Editor</p>
+              <div></div>
+            </div>
+            <div class="group-content">
+              <div class="color-adjusting-container">
+                <div class="colors-container">
+                  <div class="picker-container">
+                    <div class="color-picker"></div>
+                    <div class="color-picker-container"></div>
+                  </div>
+                </div>
+                <div class="gradient-slider-container">
+                  <div class="transparent-background-element gradient-slider">
+                    <div class="range-preview"></div>
+                    <div class="slider-colors-container"></div>
+                  </div>
+                </div>
+              </div>
+              <div class="colors-control"></div>
+              <div class="gradient-control">
+                <div class="group gradient-type">
+                  <div class="group-header">
+                    <p>Gradient Type</p>
+                    <div></div>
+                  </div>
+                  <div class="group-content">
+                    <div class="radio-container">
+                      <input
+                        type="radio"
+                        id="radio-linear"
+                        name="gradient-type"
+                        data-type="linear"
+                        onchange="changeGradientType(this.dataset.type);"
+                        checked
+                      />
+                      <div></div>
+                      <label for="radio-linear">Linear Gradient</label>
+                    </div>
+                    <div class="radio-container" data-last-option="1">
+                      <input
+                        type="radio"
+                        id="radio-radial"
+                        name="gradient-type"
+                        data-type="radial"
+                        onchange="changeGradientType(this.dataset.type);"
+                      />
+                      <div></div>
+                      <label for="radio-radial">Radial Gradient</label>
+                    </div>
+                  </div>
+                </div>
+                <div class="group gradient-angle">
+                  <div class="group-header">
+                    <p>Angle</p>
+                    <div class="group-header-element">
+                      <input type="text" id="angle-value" value="90" readonly />
+                    </div>
+                  </div>
+                  <div class="group-content">
+                    <div class="angle-slider"></div>
+                  </div>
+                </div>
+                <div style="display: none" class="group radial-position">
+                  <div class="group-header">
+                    <p>Radial Position</p>
+                    <div></div>
+                  </div>
+                  <div class="group-content">
+                    <select onchange="changeRadialPosition(this);">
+                      <option value="top left">Top Left</option>
+                      <option value="top center">Top Center</option>
+                      <option value="top right">Top Right</option>
+                      <option value="left center">Left Center</option>
+                      <option value="center center" selected>
+                        Center Center
+                      </option>
+                      <option value="right center">Right Center</option>
+                      <option value="bottom left">Bottom Left</option>
+                      <option value="bottom center">Bottom Center</option>
+                      <option value="bottom right">Bottom Right</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="presets-container"></div>
+          </div>
+        </div>
+        <div class="tool-main-right">
+          <div class="group">
+            <div class="group-header">
+              <p>Gradient Preview</p>
+              <div class="group-header-element">
+                <button onclick="toggleFullScreen(1);">View Full Screen</button>
+              </div>
+            </div>
+            <div class="group-content">
+              <div class="gradient-preview">
+                <div class="gradient-preview-background"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+ <div class="invisible-div code-view">
+        <div class="code-view-header">
+          <div class="code-view-icon">
+            <img src="https://devsdash.com/assets/vectors/logo.svg" alt="devsdash.com logo" />
+          </div>
+          <div class="code-view-options">
+            <div>
+              <input
+                type="radio"
+                name="code-view-option"
+                id="code-view-option-css"
+                data-id="css"
+                onchange="changeCodeView(this);"
+                checked="checked"
+              />
+              <label for="code-view-option-css">CSS</label>
+            </div>
+            <div>
+              <input
+                type="radio"
+                name="code-view-option"
+                id="code-view-option-css-max"
+                data-id="css-max"
+                onchange="changeCodeView(this);"
+              />
+              <label for="code-view-option-css-max"
+                >Max Compatibility (IE6+)</label
+              >
+            </div>
+          </div>
+          <div class="code-view-actions">
+            <button onclick="copyCode(this);">COPY</button>
+          </div>
+        </div>
+        <div class="code-view-content">
+          <div class="code-view-alert">
+            <p>Code Copied!</p>
+          </div>
+          <div class="code-view-code-container" data-id="css" data-active="0">
+            <pre><code class="language-css"></code></pre>
+          </div>
+          <div
+            class="code-view-code-container"
+            data-id="css-max"
+            data-active="0"
+          >
+            <pre><code class="language-css"></code></pre>
+          </div>
+        </div>
+      </div>
+      <div class="invisible-div ad banner-ad"></div>
+      <div class="invisible-div tool-info">
+
+        <div class="invisible-div tool-info-right">
+          <div class="ad square-ad sticky"></div>
+        </div>
+      </div>
+    </article>
+    <section class="fullscreen">
+      <div onclick="toggleFullScreen(0);" class="fs-preview"></div>
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script src="assets/scripts/lib/circle-slider.js"></script>
+    <script src="assets/scripts/utils/code-view.js"></script>
+    <script src="assets/scripts/tools/css-gradient-js.js"></script>
+    <script src="assets/scripts/utils/social-links.js"></script>
+  </body>
+
+<!-- Mirrored from devsdash.com/tools/css-gradient-generator by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 27 Apr 2023 06:30:48 GMT -->
+</html>

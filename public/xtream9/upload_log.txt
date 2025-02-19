@@ -1,0 +1,12 @@
+[2024-08-25 23:17:06] Received file upload request
+[2024-08-25 23:17:06] File details: Array
+(
+    [name] => 434267321_3692553284395090_3161285389230087071_n.jpg
+    [full_path] => 434267321_3692553284395090_3161285389230087071_n.jpg
+    [type] => image/jpeg
+    [tmp_name] => /tmp/phpT3KhmO
+    [error] => 0
+    [size] => 108404
+)
+
+[2024-08-25 23:17:06] Sending response: {"status":"OK","data":{"url":"http:\/\/example.com\/fake-image-url.jpg"}}

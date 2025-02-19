@@ -1,0 +1,12 @@
+**To install the panel**
+
+1. Create a new MySQL database on your hosting
+2. Create a user that has access to that database
+3. Add the details to the db.php file in the includes folder.
+4. Navigate your browser to the place you've placed the panel
+5. There should be a button to install - if there's an error message it means your database details are not correct
+6. That's it - the database will be built and your login username/password will be displayed at the login screen.
+
+**For the APK**
+
+Search for https://yourpanelurl/xciptv/ in the SMALI and replace with your panel URL *8 locations* - the correct URL should be in the XCIPTV app settings tab in your panel. 

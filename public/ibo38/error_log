@@ -1,0 +1,44 @@
+[14-Jun-2024 18:20:41 America/Sao_Paulo] PHP Notice:  Undefined variable: adb in /home/pain0133/meubox.painelmaster.lol/ads.php on line 11
+[14-Jun-2024 18:20:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/pain0133/meubox.painelmaster.lol/ads.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pain0133/meubox.painelmaster.lol/ads.php on line 11
+[14-Jun-2024 18:20:47 America/Sao_Paulo] PHP Notice:  Undefined variable: adb in /home/pain0133/meubox.painelmaster.lol/ads.php on line 11
+[14-Jun-2024 18:20:47 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/pain0133/meubox.painelmaster.lol/ads.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pain0133/meubox.painelmaster.lol/ads.php on line 11
+[14-Jun-2024 18:20:51 America/Sao_Paulo] PHP Notice:  Undefined variable: adb in /home/pain0133/meubox.painelmaster.lol/ads.php on line 11
+[14-Jun-2024 18:20:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/pain0133/meubox.painelmaster.lol/ads.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pain0133/meubox.painelmaster.lol/ads.php on line 11
+[14-Jun-2024 18:20:54 America/Sao_Paulo] PHP Notice:  Undefined variable: adb in /home/pain0133/meubox.painelmaster.lol/ads.php on line 11
+[14-Jun-2024 18:20:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/pain0133/meubox.painelmaster.lol/ads.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pain0133/meubox.painelmaster.lol/ads.php on line 11
+[14-Jun-2024 18:20:56 America/Sao_Paulo] PHP Notice:  Undefined variable: adb in /home/pain0133/meubox.painelmaster.lol/ads.php on line 11
+[14-Jun-2024 18:20:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/pain0133/meubox.painelmaster.lol/ads.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pain0133/meubox.painelmaster.lol/ads.php on line 11
+[14-Jun-2024 18:23:03 America/Sao_Paulo] PHP Notice:  Undefined variable: adb in /home/pain0133/meubox.painelmaster.lol/ads.php on line 11
+[14-Jun-2024 18:23:03 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/pain0133/meubox.painelmaster.lol/ads.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pain0133/meubox.painelmaster.lol/ads.php on line 11
+[15-Jun-2024 17:58:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/tvaplaye/iboproads.playerapps.xyz/ibouser/ads.php:0
+Stack trace:
+#0 {main}
+  thrown in /home/tvaplaye/iboproads.playerapps.xyz/ibouser/ads.php on line 0
+[15-Jun-2024 17:58:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/tvaplaye/iboproads.playerapps.xyz/ibouser/ads.php:0
+Stack trace:
+#0 {main}
+  thrown in /home/tvaplaye/iboproads.playerapps.xyz/ibouser/ads.php on line 0
+[15-Jun-2024 17:59:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/tvaplaye/iboproads.playerapps.xyz/ibouser/ads.php:0
+Stack trace:
+#0 {main}
+  thrown in /home/tvaplaye/iboproads.playerapps.xyz/ibouser/ads.php on line 0
+[17-Jun-2024 11:43:46 America/Sao_Paulo] PHP Fatal error:  The file /home/admpro/ibonovo38.admpro.shop/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0

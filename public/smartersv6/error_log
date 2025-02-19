@@ -1,0 +1,193 @@
+[23-Apr-2023 04:31:49 Asia/Singapore] PHP Notice:  Undefined variable: folder_name in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 9
+[23-Apr-2023 04:31:49 Asia/Singapore] PHP Notice:  Undefined variable: intro_file in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 9
+[23-Apr-2023 04:37:39 Asia/Singapore] PHP Warning:  file_get_contents(api/RTXUpdate.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 17
+[23-Apr-2023 04:37:39 Asia/Singapore] PHP Notice:  Trying to get property 'RTX_MODE' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 21
+[23-Apr-2023 04:37:39 Asia/Singapore] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 21
+[23-Apr-2023 04:37:39 Asia/Singapore] PHP Notice:  Trying to get property 'AppVerion' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 46
+[23-Apr-2023 04:37:39 Asia/Singapore] PHP Notice:  Trying to get property 'APKUrl' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 50
+[23-Apr-2023 04:37:39 Asia/Singapore] PHP Notice:  Trying to get property 'Change' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 54
+[23-Apr-2023 04:38:34 Asia/Singapore] PHP Warning:  file_get_contents(api/RTXUpdate.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 17
+[23-Apr-2023 04:38:34 Asia/Singapore] PHP Notice:  Trying to get property 'RTX_MODE' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 21
+[23-Apr-2023 04:38:34 Asia/Singapore] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 21
+[23-Apr-2023 04:38:34 Asia/Singapore] PHP Notice:  Trying to get property 'AppVerion' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 46
+[23-Apr-2023 04:38:34 Asia/Singapore] PHP Notice:  Trying to get property 'APKUrl' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 50
+[23-Apr-2023 04:38:34 Asia/Singapore] PHP Notice:  Trying to get property 'Change' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 54
+[23-Apr-2023 04:39:01 Asia/Singapore] PHP Warning:  file_get_contents(api/RTXUpdate.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 17
+[23-Apr-2023 04:39:01 Asia/Singapore] PHP Notice:  Trying to get property 'RTX_MODE' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 21
+[23-Apr-2023 04:39:01 Asia/Singapore] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 21
+[23-Apr-2023 04:39:01 Asia/Singapore] PHP Notice:  Trying to get property 'AppVerion' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 46
+[23-Apr-2023 04:39:01 Asia/Singapore] PHP Notice:  Trying to get property 'APKUrl' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 50
+[23-Apr-2023 04:39:01 Asia/Singapore] PHP Notice:  Trying to get property 'Change' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 54
+[23-Apr-2023 04:39:33 Asia/Singapore] PHP Warning:  file_get_contents(api/RTXUpdate.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 20
+[23-Apr-2023 04:39:33 Asia/Singapore] PHP Notice:  Trying to get property 'RTX_MODE' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 24
+[23-Apr-2023 04:39:33 Asia/Singapore] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 24
+[23-Apr-2023 04:39:33 Asia/Singapore] PHP Notice:  Trying to get property 'AppVerion' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 49
+[23-Apr-2023 04:39:33 Asia/Singapore] PHP Notice:  Trying to get property 'APKUrl' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 53
+[23-Apr-2023 04:39:33 Asia/Singapore] PHP Notice:  Trying to get property 'Change' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 57
+[23-Apr-2023 04:39:48 Asia/Singapore] PHP Warning:  file_get_contents(api/RTXUpdate.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 19
+[23-Apr-2023 04:39:48 Asia/Singapore] PHP Notice:  Trying to get property 'RTX_MODE' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 23
+[23-Apr-2023 04:39:48 Asia/Singapore] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 23
+[23-Apr-2023 04:39:48 Asia/Singapore] PHP Notice:  Trying to get property 'AppVerion' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 48
+[23-Apr-2023 04:39:48 Asia/Singapore] PHP Notice:  Trying to get property 'APKUrl' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 52
+[23-Apr-2023 04:39:48 Asia/Singapore] PHP Notice:  Trying to get property 'Change' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 56
+[23-Apr-2023 04:40:33 Asia/Singapore] PHP Warning:  file_get_contents(api/RTXUpdate.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 19
+[23-Apr-2023 04:40:33 Asia/Singapore] PHP Notice:  Trying to get property 'RTX_MODE' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 23
+[23-Apr-2023 04:40:33 Asia/Singapore] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 23
+[23-Apr-2023 04:40:33 Asia/Singapore] PHP Notice:  Trying to get property 'AppVerion' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 48
+[23-Apr-2023 04:40:33 Asia/Singapore] PHP Notice:  Trying to get property 'APKUrl' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 52
+[23-Apr-2023 04:40:33 Asia/Singapore] PHP Notice:  Trying to get property 'Change' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 56
+[23-Apr-2023 04:40:47 Asia/Singapore] PHP Warning:  file_get_contents(api/RTXUpdate.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 19
+[23-Apr-2023 04:40:47 Asia/Singapore] PHP Notice:  Trying to get property 'RTX_MODE' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 23
+[23-Apr-2023 04:40:47 Asia/Singapore] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 23
+[23-Apr-2023 04:40:47 Asia/Singapore] PHP Notice:  Trying to get property 'AppVerion' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 48
+[23-Apr-2023 04:40:47 Asia/Singapore] PHP Notice:  Trying to get property 'APKUrl' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 52
+[23-Apr-2023 04:40:47 Asia/Singapore] PHP Notice:  Trying to get property 'Change' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 56
+[23-Apr-2023 04:40:54 Asia/Singapore] PHP Warning:  file_get_contents(api/RTXUpdate.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 19
+[23-Apr-2023 04:40:54 Asia/Singapore] PHP Notice:  Trying to get property 'RTX_MODE' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 23
+[23-Apr-2023 04:40:54 Asia/Singapore] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 23
+[23-Apr-2023 04:40:54 Asia/Singapore] PHP Notice:  Trying to get property 'AppVerion' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 48
+[23-Apr-2023 04:40:54 Asia/Singapore] PHP Notice:  Trying to get property 'APKUrl' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 52
+[23-Apr-2023 04:40:54 Asia/Singapore] PHP Notice:  Trying to get property 'Change' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 56
+[23-Apr-2023 04:41:30 Asia/Singapore] PHP Warning:  file_get_contents(api/RTXUpdate.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 19
+[23-Apr-2023 04:41:30 Asia/Singapore] PHP Notice:  Trying to get property 'RTX_MODE' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 23
+[23-Apr-2023 04:41:30 Asia/Singapore] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 23
+[23-Apr-2023 04:41:30 Asia/Singapore] PHP Notice:  Trying to get property 'AppVerion' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 48
+[23-Apr-2023 04:41:30 Asia/Singapore] PHP Notice:  Trying to get property 'APKUrl' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 52
+[23-Apr-2023 04:41:30 Asia/Singapore] PHP Notice:  Trying to get property 'Change' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 56
+[23-Apr-2023 04:42:51 Asia/Singapore] PHP Warning:  file_get_contents(api/RTXUpdate.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 19
+[23-Apr-2023 04:42:51 Asia/Singapore] PHP Notice:  Trying to get property 'RTX_MODE' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 23
+[23-Apr-2023 04:42:51 Asia/Singapore] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 23
+[23-Apr-2023 04:42:51 Asia/Singapore] PHP Notice:  Trying to get property 'AppVerion' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 48
+[23-Apr-2023 04:42:51 Asia/Singapore] PHP Notice:  Trying to get property 'APKUrl' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 52
+[23-Apr-2023 04:42:51 Asia/Singapore] PHP Notice:  Trying to get property 'Change' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 56
+[23-Apr-2023 04:45:40 Asia/Singapore] PHP Warning:  file_get_contents(api/RTXUpdate.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 22
+[23-Apr-2023 04:45:40 Asia/Singapore] PHP Notice:  Trying to get property 'RTX_MODE' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 26
+[23-Apr-2023 04:45:40 Asia/Singapore] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 26
+[23-Apr-2023 04:45:40 Asia/Singapore] PHP Notice:  Trying to get property 'AppVerion' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 51
+[23-Apr-2023 04:45:40 Asia/Singapore] PHP Notice:  Trying to get property 'APKUrl' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 55
+[23-Apr-2023 04:45:40 Asia/Singapore] PHP Notice:  Trying to get property 'Change' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 59
+[23-Apr-2023 04:46:52 Asia/Singapore] PHP Warning:  file_get_contents(api/RTXUpdate.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 21
+[23-Apr-2023 04:46:52 Asia/Singapore] PHP Notice:  Trying to get property 'RTX_MODE' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 25
+[23-Apr-2023 04:46:52 Asia/Singapore] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 25
+[23-Apr-2023 04:46:52 Asia/Singapore] PHP Notice:  Trying to get property 'AppVerion' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 50
+[23-Apr-2023 04:46:52 Asia/Singapore] PHP Notice:  Trying to get property 'APKUrl' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 54
+[23-Apr-2023 04:46:52 Asia/Singapore] PHP Notice:  Trying to get property 'Change' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 58
+[23-Apr-2023 04:47:05 Asia/Singapore] PHP Warning:  file_get_contents(api/RTXUpdate.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 22
+[23-Apr-2023 04:47:05 Asia/Singapore] PHP Notice:  Trying to get property 'RTX_MODE' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 26
+[23-Apr-2023 04:47:05 Asia/Singapore] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 26
+[23-Apr-2023 04:47:05 Asia/Singapore] PHP Notice:  Trying to get property 'AppVerion' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 51
+[23-Apr-2023 04:47:05 Asia/Singapore] PHP Notice:  Trying to get property 'APKUrl' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 55
+[23-Apr-2023 04:47:05 Asia/Singapore] PHP Notice:  Trying to get property 'Change' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 59
+[23-Apr-2023 04:48:59 Asia/Singapore] PHP Warning:  file_get_contents(api/RTXUpdate.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 22
+[23-Apr-2023 04:48:59 Asia/Singapore] PHP Notice:  Trying to get property 'RTX_MODE' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 26
+[23-Apr-2023 04:48:59 Asia/Singapore] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 26
+[23-Apr-2023 04:48:59 Asia/Singapore] PHP Notice:  Trying to get property 'AppVerion' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 51
+[23-Apr-2023 04:50:10 Asia/Singapore] PHP Warning:  file_get_contents(api/RTXUpdate.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 22
+[23-Apr-2023 04:50:10 Asia/Singapore] PHP Notice:  Trying to get property 'RTX_MODE' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 26
+[23-Apr-2023 04:50:10 Asia/Singapore] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 26
+[23-Apr-2023 04:50:10 Asia/Singapore] PHP Notice:  Trying to get property 'AppVerion' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 51
+[23-Apr-2023 04:50:14 Asia/Singapore] PHP Warning:  file_get_contents(api/RTXUpdate.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 22
+[23-Apr-2023 04:50:14 Asia/Singapore] PHP Notice:  Trying to get property 'RTX_MODE' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 26
+[23-Apr-2023 04:50:14 Asia/Singapore] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 26
+[23-Apr-2023 04:50:14 Asia/Singapore] PHP Notice:  Trying to get property 'AppVerion' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 51
+[23-Apr-2023 04:51:18 Asia/Singapore] PHP Warning:  file_get_contents(api/RTXUpdate.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 22
+[23-Apr-2023 04:51:18 Asia/Singapore] PHP Notice:  Trying to get property 'RTX_MODE' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 26
+[23-Apr-2023 04:51:18 Asia/Singapore] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 26
+[23-Apr-2023 04:51:18 Asia/Singapore] PHP Notice:  Trying to get property 'AppVerion' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/smarv6/video.php on line 51
+[23-Apr-2023 02:34:25 UTC] PHP Notice:  Undefined variable: message in /home/sd8racomas7l/public_html/apkrebrandmx.com/smartersnew/intro.php on line 36
+[23-Apr-2023 02:34:26 UTC] PHP Notice:  Only variables should be passed by reference in /home/sd8racomas7l/public_html/apkrebrandmx.com/smartersnew/intro.php on line 44
+[31-May-2023 06:57:03 UTC] PHP Warning:  SQLite3Result::fetchArray(): The SQLite3Result object has not been correctly initialised in /home/sd8racomas7l/public_html/apkrebrandmx.com/smartersnew/movieads.php on line 124
+[31-May-2023 06:57:04 UTC] PHP Warning:  SQLite3Result::fetchArray(): The SQLite3Result object has not been correctly initialised in /home/sd8racomas7l/public_html/apkrebrandmx.com/smartersnew/movieads.php on line 124
+[31-May-2023 06:57:05 UTC] PHP Warning:  SQLite3Result::fetchArray(): The SQLite3Result object has not been correctly initialised in /home/sd8racomas7l/public_html/apkrebrandmx.com/smartersnew/movieads.php on line 124
+[31-May-2023 06:57:05 UTC] PHP Warning:  SQLite3::exec(): 5 values for 4 columns in /home/sd8racomas7l/public_html/apkrebrandmx.com/smartersnew/movieads.php on line 114
+[31-May-2023 06:57:18 UTC] PHP Warning:  SQLite3Result::fetchArray(): The SQLite3Result object has not been correctly initialised in /home/sd8racomas7l/public_html/apkrebrandmx.com/smartersnew/seriesads.php on line 124
+[27-Jun-2023 18:16:21 UTC] PHP Notice:  Undefined variable: id in /home/sd8racomas7l/public_html/apkrebrandmx.com/smartersnew/login.php on line 33
+[01-Jul-2023 02:17:28 UTC] PHP Notice:  Undefined variable: message in /home/sd8racomas7l/public_html/apkrebrandmx.com/smartersnew/intro.php on line 36
+[08-Sep-2023 06:17:35 UTC] PHP Notice:  Undefined index: redirect_link in /home/sd8racomas7l/public_html/apkrebrandmx.com/smartersnew/edit_movie_ads.php on line 115
+[08-Sep-2023 06:17:40 UTC] PHP Warning:  SQLite3Result::fetchArray(): The SQLite3Result object has not been correctly initialised in /home/sd8racomas7l/public_html/apkrebrandmx.com/smartersnew/seriesads.php on line 124
+[16-Nov-2023 02:25:38 UTC] PHP Notice:  Undefined variable: id in /home/sd8racomas7l/public_html/apkrebrandmx.com/smartersnew/login.php on line 33
+[14-Dec-2023 22:30:32 UTC] PHP Notice:  Undefined variable: id in /home/curskhmj/public_html/apps2025/videsm/smartersnew/login.php on line 33
+[08-Feb-2025 22:22:32 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 22:22:32 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 22:22:39 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 22:22:39 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 22:24:00 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 22:24:00 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 22:33:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: The SQLite3Result object has not been correctly initialised or is already closed in /home3/activawu/wstream.activawudy.com/smartersv6/vpn.php:53
+Stack trace:
+#0 /home3/activawu/wstream.activawudy.com/smartersv6/vpn.php(53): SQLite3Result->fetchArray()
+#1 {main}
+  thrown in /home3/activawu/wstream.activawudy.com/smartersv6/vpn.php on line 53
+[08-Feb-2025 22:34:50 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 22:34:50 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 22:46:13 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 22:46:13 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 22:50:30 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 22:50:30 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 22:52:55 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 22:52:55 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 22:52:55 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 22:52:55 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 22:52:59 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 22:52:59 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 22:55:09 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 22:55:09 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 22:58:59 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 22:58:59 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 22:58:59 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 22:58:59 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 23:01:44 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 23:01:44 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 23:01:44 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 23:01:44 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 23:04:18 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 23:04:18 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 23:04:18 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 23:04:18 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 23:09:01 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 23:09:01 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 23:09:01 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 23:09:01 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 23:11:09 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 23:11:09 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 23:11:09 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 23:11:09 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 23:13:23 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 23:13:23 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 23:13:29 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 23:13:29 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 23:13:29 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 23:13:29 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 23:15:18 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 23:15:18 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 23:15:18 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 23:15:18 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 23:21:12 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 23:21:12 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 23:21:41 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 23:21:41 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 23:21:41 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 23:21:41 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 23:25:05 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 23:25:05 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 23:25:05 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 23:25:05 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[08-Feb-2025 23:26:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: The SQLite3Result object has not been correctly initialised or is already closed in /home3/activawu/wstream.activawudy.com/smartersv6/notifications.php:19
+Stack trace:
+#0 /home3/activawu/wstream.activawudy.com/smartersv6/notifications.php(19): SQLite3Result->fetchArray()
+#1 {main}
+  thrown in /home3/activawu/wstream.activawudy.com/smartersv6/notifications.php on line 19
+[08-Feb-2025 23:26:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: The SQLite3Result object has not been correctly initialised or is already closed in /home3/activawu/wstream.activawudy.com/smartersv6/notifications.php:19
+Stack trace:
+#0 /home3/activawu/wstream.activawudy.com/smartersv6/notifications.php(19): SQLite3Result->fetchArray()
+#1 {main}
+  thrown in /home3/activawu/wstream.activawudy.com/smartersv6/notifications.php on line 19
+[08-Feb-2025 23:26:29 America/Mexico_City] PHP Warning:  Undefined variable $message in /home3/activawu/wstream.activawudy.com/smartersv6/intro.php on line 36
+[08-Feb-2025 23:41:27 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[08-Feb-2025 23:41:27 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[11-Feb-2025 16:57:50 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[11-Feb-2025 16:57:50 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[11-Feb-2025 16:57:56 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[11-Feb-2025 16:57:56 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108
+[11-Feb-2025 16:57:56 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 106
+[11-Feb-2025 16:57:56 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/smartersv6/video.php:1) in /home3/activawu/wstream.activawudy.com/smartersv6/includes/header.php on line 108

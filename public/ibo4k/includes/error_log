@@ -1,0 +1,7 @@
+[12-Sep-2023 05:39:24 Asia/Singapore] PHP Warning:  file_get_contents(https://ipinfo.io/179.124.181.8, 172.70.142.146/json): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/cyberya1/panel.cyberyakku.com/demo/RTXIbo4k/includes/index.php on line 144
+[12-Sep-2023 05:39:24 Asia/Singapore] PHP Notice:  Trying to get property 'country' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/RTXIbo4k/includes/index.php on line 145
+[12-Sep-2023 05:39:24 Asia/Singapore] PHP Notice:  Trying to get property 'region' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/RTXIbo4k/includes/index.php on line 146
+[12-Sep-2023 05:39:24 Asia/Singapore] PHP Notice:  Trying to get property 'city' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/RTXIbo4k/includes/index.php on line 147
+[12-Sep-2023 05:39:24 Asia/Singapore] PHP Notice:  Trying to get property 'org' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/RTXIbo4k/includes/index.php on line 148
+[12-Sep-2023 05:39:24 Asia/Singapore] PHP Notice:  Trying to get property 'loc' of non-object in /home/cyberya1/panel.cyberyakku.com/demo/RTXIbo4k/includes/index.php on line 150

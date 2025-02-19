@@ -1,0 +1,11 @@
+RewriteEngine on 
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L]
+
+AddType application/x-httpd-php .html .htm
+
+<Files ~ "(.db)">
+Order allow,deny
+Deny from all
+</Files>

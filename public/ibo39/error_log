@@ -1,0 +1,2 @@
+[13-Feb-2024 02:02:40 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /home3/playtect/painel2.playtectv.com/ibotmdb/index.php on line 22
+[16-Feb-2025 17:48:05 America/Mexico_City] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /home3/activawu/wstream.activawudy.com/ibo39/index.php on line 22

@@ -1,0 +1,11 @@
+{
+    "tag": "ann",
+    "success": "0",
+    "api_ver": "1.0v",
+    "announcement": "No Announcement",
+    "status": "INACTIVE",
+    "channel": "ALL",
+    "expire": "2019-11-26 23:59:00",
+    "interval": "1",
+    "disappear": "1"
+}

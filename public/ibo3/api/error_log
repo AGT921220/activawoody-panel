@@ -1,0 +1,24 @@
+[14-Feb-2024 16:41:37 UTC] PHP Notice:  Undefined offset: 0 in /home/curskhmj/public_html/apps2025/ibortx/ibotmdb/api/auth.php on line 29
+[14-Feb-2024 16:41:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/curskhmj/public_html/apps2025/ibortx/ibotmdb/api/auth.php on line 29
+[14-Feb-2024 16:41:37 UTC] PHP Notice:  Undefined offset: 0 in /home/curskhmj/public_html/apps2025/ibortx/ibotmdb/api/auth.php on line 29
+[14-Feb-2024 16:41:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/curskhmj/public_html/apps2025/ibortx/ibotmdb/api/auth.php on line 29
+[14-Feb-2024 16:41:37 UTC] PHP Notice:  Undefined offset: 0 in /home/curskhmj/public_html/apps2025/ibortx/ibotmdb/api/auth.php on line 46
+[14-Feb-2024 16:41:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/curskhmj/public_html/apps2025/ibortx/ibotmdb/api/auth.php on line 46
+[14-Feb-2024 16:42:02 UTC] PHP Notice:  Undefined offset: 0 in /home/curskhmj/public_html/apps2025/ibortx/ibotmdb/api/auth.php on line 29
+[14-Feb-2024 16:42:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/curskhmj/public_html/apps2025/ibortx/ibotmdb/api/auth.php on line 29
+[14-Feb-2024 16:42:02 UTC] PHP Notice:  Undefined offset: 0 in /home/curskhmj/public_html/apps2025/ibortx/ibotmdb/api/auth.php on line 29
+[14-Feb-2024 16:42:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/curskhmj/public_html/apps2025/ibortx/ibotmdb/api/auth.php on line 29
+[14-Feb-2024 16:42:02 UTC] PHP Notice:  Undefined offset: 0 in /home/curskhmj/public_html/apps2025/ibortx/ibotmdb/api/auth.php on line 46
+[14-Feb-2024 16:42:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/curskhmj/public_html/apps2025/ibortx/ibotmdb/api/auth.php on line 46
+[14-Feb-2024 16:46:38 UTC] PHP Notice:  Undefined variable: api_key in /home/curskhmj/public_html/apps2025/ibortx/ibotmdb/api/movies.php on line 38
+[14-Feb-2024 16:46:38 UTC] PHP Notice:  Undefined variable: api_key in /home/curskhmj/public_html/apps2025/ibortx/ibotmdb/api/movies.php on line 47
+[14-Feb-2024 16:46:39 UTC] PHP Notice:  Undefined index: results in /home/curskhmj/public_html/apps2025/ibortx/ibotmdb/api/movies.php on line 59
+[14-Feb-2024 16:46:39 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/curskhmj/public_html/apps2025/ibortx/ibotmdb/api/movies.php on line 59
+[14-Feb-2024 16:46:39 UTC] PHP Notice:  Undefined index: results in /home/curskhmj/public_html/apps2025/ibortx/ibotmdb/api/movies.php on line 60
+[14-Feb-2024 16:46:39 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/curskhmj/public_html/apps2025/ibortx/ibotmdb/api/movies.php on line 60
+[17-Feb-2025 18:41:43 America/Mexico_City] PHP Warning:  Undefined array key "playlist_url" in /home3/activawu/wstream.activawudy.com/ibo3/api/playlists.php on line 9
+[17-Feb-2025 18:41:43 America/Mexico_City] PHP Warning:  Undefined array key "playlist_id" in /home3/activawu/wstream.activawudy.com/ibo3/api/playlists.php on line 10
+[17-Feb-2025 18:41:43 America/Mexico_City] PHP Warning:  Undefined array key "playlist_name" in /home3/activawu/wstream.activawudy.com/ibo3/api/playlists.php on line 11
+[17-Feb-2025 18:41:43 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/activawu/wstream.activawudy.com/ibo3/api/playlists.php on line 14
+[17-Feb-2025 18:41:43 America/Mexico_City] PHP Warning:  Undefined array key "password" in /home3/activawu/wstream.activawudy.com/ibo3/api/playlists.php on line 15
+[17-Feb-2025 18:41:43 America/Mexico_City] PHP Warning:  SQLite3Stmt::execute(): Unable to execute statement: playlist.username may not be NULL in /home3/activawu/wstream.activawudy.com/ibo3/includes/functions.php on line 136

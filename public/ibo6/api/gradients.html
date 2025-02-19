@@ -1,0 +1,178 @@
+<head>
+    <!--Meta Tags-->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="A free CSS gradient generator tool to create amazing of gradient background variations for your website fast and easy. Also it comes with a powerful editor." />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="og:title" content="CSS Gradient Generator" />
+    <meta property="og:description" content="A free CSS gradient generator tool to create amazing of gradient background variations for your website fast and easy. Also it comes with a powerful editor." />
+    <meta property="og:image" content="assets/images/css-gradient-generator-card.png" />
+    <meta
+      property="og:url"
+      content="css-gradient-generator.html"
+    />
+    <!--Title-->
+    <title>CSS Gradient Generator</title>
+    <!--Common-->
+    <base  />
+<link rel="icon" type="image/png" href="../assets/images/favico.png" />
+<link rel="stylesheet" href="../assets/styles/main3860.css?v=1" />
+<link rel="stylesheet" href="../assets/styles/icons.css" />
+<script src="../assets/scripts/main.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<style>
+    .invisible-div {
+      display: none;
+    }
+  </style>
+<script
+  async
+  src="https://www.googletagmanager.com/gtag/js?id=G-6GKSN86029"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "G-6GKSN86029");
+</script>
+    <!--Styles-->
+    <link rel="stylesheet" href="../assets/styles/tools/main.css" />
+    <link
+      rel="stylesheet"
+      href="../assets/styles/tools/css-gradient-generator.css"
+    />
+    <link rel="stylesheet" href="../assets/styles/lib/pickr.classic.css" />
+    <link rel="stylesheet" href="../assets/styles/lib/circle-slider.css" />
+    <link rel="stylesheet" href="../assets/styles/lib/highlight.css" />
+    <link rel="stylesheet" href="../assets/styles/utils/code-view3860.css?v=1" />
+    <!--Scripts-->
+    <script src="../assets/scripts/lib/pickr.min.js"></script>
+    <script src="../assets/scripts/lib/jquery.min.js"></script>
+    <script src="../assets/scripts/lib/jqueryui.min.js"></script>
+    <script src="../assets/scripts/lib/jqueryui-slider-pips.min.js"></script>
+    <script src="../assets/scripts/lib/highlight.js"></script>
+  </head>
+  <body>
+            <div  class="presets-container"></div>
+            <div  class="group-content">
+              <div hidden="hidden" class="color-adjusting-container">
+                <div class="colors-container">
+                  <div class="picker-container">
+                    <div class="color-picker"></div>
+                    <div class="color-picker-container"></div>
+                  </div>
+                </div>
+                <div hidden="hidden" class="gradient-slider-container">
+                  <div class="transparent-background-element gradient-slider">
+                    <div class="range-preview"></div>
+                    <div class="slider-colors-container"></div>
+                  </div>
+                </div>
+              </div>
+              <div class="colors-control"></div>
+              <div class="gradient-control">
+                <div hidden="hidden" class="group gradient-type">
+                  <div class="group-header">
+                    <div></div>
+                  </div>
+                  <div class="group-content">
+                    <div hidden="hidden" class="radio-container">
+                      <input
+                        type="radio"
+                        id="radio-linear"
+                        name="gradient-type"
+                        data-type="linear"
+                        onchange="changeGradientType(this.dataset.type);"
+                        checked
+                      />
+                      <div></div>
+                      <label for="radio-linear">Linear Gradient</label>
+                    </div>
+                    <div class="radio-container" data-last-option="1">
+                      <input
+                        type="radio"
+                        id="radio-radial"
+                        name="gradient-type"
+                        data-type="radial"
+                        onchange="changeGradientType(this.dataset.type);"
+                      />
+                      <div></div>
+                      <label for="radio-radial">Radial Gradient</label>
+                    </div>
+                  </div>
+                </div>
+                <div hidden="hidden" class="group gradient-angle">
+                  <div class="group-header">
+                    <div class="group-header-element">
+                      <input type="text" id="angle-value" value="90" readonly />
+                    </div>
+                  </div>
+                  <div class="group-content">
+                    <div class="angle-slider"></div>
+                  </div>
+                </div>
+                <div hidden="hidden" style="display: none" class="group radial-position">
+                  <div class="group-header">
+                    <div></div>
+                  </div>
+                  <div class="group-content">
+                    <select onchange="changeRadialPosition(this);">
+                      <option value="top left">Top Left</option>
+                      <option value="top center">Top Center</option>
+                      <option value="top right">Top Right</option>
+                      <option value="left center">Left Center</option>
+                      <option value="center center" selected>
+                        Center Center
+                      </option>
+                      <option value="right center">Right Center</option>
+                      <option value="bottom left">Bottom Left</option>
+                      <option value="bottom center">Bottom Center</option>
+                      <option value="bottom right">Bottom Right</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div  class="tool-main-right">
+              <div class="">
+                <div class="group-header">
+                  <div class="group-header-element">
+                  </div>
+                </div>
+                <div class="">
+                  <div class="gradient-preview">
+                    <div class="gradient-preview-background"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          <div class="code-view">
+            <section class="fullscreen">
+              <div onclick="toggleFullScreen(0);" class="fs-preview"></div>
+            </section>
+        </div>
+    <script src="../assets/scripts/lib/circle-slider.js"></script>
+    <script src="../assets/scripts/utils/code-view.js"></script>
+    <script src="../assets/scripts/tools/css-gradient-js.js"></script>
+    <script src="../assets/scripts/utils/social-links.js"></script>
+<style>
+    div.gradient-preview {
+        width: 100%;
+        padding-top: 100%;
+        position: absolute;
+        overflow: hidden;
+        border: 1px solid #1a1a1d;
+        border: 1px solid var(--tool-secondary-background);
+        -webkit-border-radius: 15px; /* Safari and Chrome */
+        -moz-border-radius: 15px; /* Firefox */
+        -ms-border-radius: 15px; /* Internet Explorer */
+        border-radius: 15px; /* CSS standard */
+    }
+</style>
+
+</body>
+</html>

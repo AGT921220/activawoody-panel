@@ -1,0 +1,136 @@
+[05-Sep-2023 11:22:02 Asia/Singapore] PHP Notice:  Undefined variable: id in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/index.php on line 0
+[05-Sep-2023 11:12:27 Europe/London] PHP Warning:  file_get_contents(./Background/filenames.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/mRTXBG.php on line 19
+[05-Sep-2023 11:12:27 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/mRTXBG.php on line 25
+[05-Sep-2023 11:12:27 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/mRTXBG.php on line 25
+[05-Sep-2023 11:12:27 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/mRTXBG.php on line 26
+[05-Sep-2023 11:12:27 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/mRTXBG.php on line 26
+[05-Sep-2023 11:12:39 Europe/London] PHP Warning:  file_get_contents(./Background/filenames.json): failed to open stream: No such file or directory in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/mRTXBG.php on line 19
+[05-Sep-2023 11:12:39 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/mRTXBG.php on line 25
+[05-Sep-2023 11:12:39 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/mRTXBG.php on line 25
+[05-Sep-2023 11:12:39 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/mRTXBG.php on line 26
+[05-Sep-2023 11:12:39 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/mRTXBG.php on line 26
+[05-Sep-2023 20:26:24 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[06-Sep-2023 16:50:46 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[06-Sep-2023 17:40:30 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[06-Sep-2023 19:04:08 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[07-Sep-2023 03:34:05 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[07-Sep-2023 06:18:01 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[07-Sep-2023 06:18:07 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[07-Sep-2023 06:18:08 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[07-Sep-2023 09:14:33 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[07-Sep-2023 09:14:35 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[07-Sep-2023 14:08:02 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[07-Sep-2023 14:08:02 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[07-Sep-2023 14:08:02 Asia/Singapore] PHP Notice:  Undefined index: name in /home/cyberya1/panel.cyberyakku.com/demo/RTXSmarTt/includes/header.php on line 8
+[13-Feb-2025 22:30:48 America/Mexico_City] PHP Warning:  filemtime(): stat failed for /home3/activawu/wstream.activawudy.com/smarterstopv3/loader-wizard.php in /home3/activawu/wstream.activawudy.com/smarterstopv3/loader-wizard.php on line 2635
+[13-Feb-2025 22:30:48 America/Mexico_City] PHP Warning:  filectime(): stat failed for /home3/activawu/wstream.activawudy.com/smarterstopv3/loader-wizard.php in /home3/activawu/wstream.activawudy.com/smarterstopv3/loader-wizard.php on line 2635
+[13-Feb-2025 23:38:00 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:38:02 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:38:04 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:38:06 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:38:08 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:38:11 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:38:23 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:38:25 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:38:26 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:38:27 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:38:33 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:38:35 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:38:37 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:38:38 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:38:38 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:38:58 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:39:04 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:39:06 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:39:08 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:39:11 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:39:27 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:39:51 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:39:52 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:39:56 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:40:02 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:40:06 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:41:21 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:41:23 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:41:30 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:43:29 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[13-Feb-2025 23:45:56 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 17:29:36 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 17:36:13 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 17:36:21 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/intro.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 17:36:27 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 17:36:36 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 17:37:27 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/note.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 17:41:02 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 17:41:25 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 17:44:58 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 17:45:42 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 19:31:30 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 19:31:31 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 19:31:33 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 19:33:56 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 19:38:43 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 19:38:44 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 19:39:00 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 19:39:01 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 19:40:28 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 19:41:08 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 19:41:09 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 19:41:09 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 19:41:10 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2025 19:43:11 America/Mexico_City] PHP Fatal error:  The file /home3/activawu/wstream.activawudy.com/smarterstopv3/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
