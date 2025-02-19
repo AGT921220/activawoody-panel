@@ -1,0 +1,7 @@
+# Ignorar archivos de entorno
+.env
+
+# Otros ejemplos comunes
+node_modules/
+vendor/
+.DS_Store
