@@ -1,0 +1,274 @@
+[07-Jan-2025 15:47:17 UTC] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home/wctvfun/iboa.wctv.fun/multitemas/index.php on line 4
+[07-Jan-2025 15:47:27 UTC] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home/wctvfun/iboa.wctv.fun/multitemas/index.php on line 4
+[07-Jan-2025 15:49:54 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/wctvfun/iboa.wctv.fun/multitemas/user.php on line 11
+[09-Jan-2025 06:39:16 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 06:40:52 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 06:41:47 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 06:42:11 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 06:43:31 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 06:43:35 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 06:43:46 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 06:43:48 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 06:43:56 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 06:43:59 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 06:50:35 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 06:50:49 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 06:51:27 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 06:53:49 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 06:53:57 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 06:59:17 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 07:00:14 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 07:00:39 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 07:07:38 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 07:07:45 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 07:09:22 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 07:09:28 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 07:10:13 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 07:10:20 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 07:10:24 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 07:10:34 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 07:10:46 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 07:19:49 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 07:19:58 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 09:55:49 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 09:55:55 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 09:57:51 America/Sao_Paulo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home2/telaplay/public_html/iboplus/user.php on line 11
+[09-Jan-2025 10:02:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindValue() on bool in /home2/telaplay/public_html/iboplus/includes/functions.php:184
+Stack trace:
+#0 /home2/telaplay/public_html/iboplus/playlists.php(20): SQLiteWrapper->select('playlist', '*', 'id = :id', '', Array)
+#1 {main}
+  thrown in /home2/telaplay/public_html/iboplus/includes/functions.php on line 184
+[09-Jan-2025 13:53:01 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 13:56:50 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 13:56:59 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 13:57:00 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 13:57:11 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 17:14:14 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 17:14:50 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 17:46:27 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 17:46:38 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 17:46:42 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 17:46:55 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 19:12:12 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 19:12:24 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 19:12:30 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 19:12:44 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 19:20:02 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'html' (T_STRING) in /home2/telaplay/public_html/iboplus/index.php on line 65
+[09-Jan-2025 19:20:07 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'html' (T_STRING) in /home2/telaplay/public_html/iboplus/index.php on line 65
+[09-Jan-2025 19:20:11 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'html' (T_STRING) in /home2/telaplay/public_html/iboplus/index.php on line 65
+[09-Jan-2025 19:20:12 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'html' (T_STRING) in /home2/telaplay/public_html/iboplus/index.php on line 65
+[09-Jan-2025 19:20:32 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'html' (T_STRING) in /home2/telaplay/public_html/iboplus/index.php on line 65
+[09-Jan-2025 19:21:25 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 19:21:54 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 19:25:01 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 19:27:09 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 19:27:15 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 19:27:26 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 19:30:58 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 19:33:13 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 19:35:16 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 19:35:40 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 19:35:43 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 19:35:58 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 19:37:38 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 19:37:39 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 19:40:13 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 19:43:02 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 20:01:05 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 20:01:24 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 21:43:11 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 21:43:35 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 21:52:21 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 21:53:23 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[09-Jan-2025 22:33:22 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[10-Jan-2025 09:52:33 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[10-Jan-2025 09:52:46 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[10-Jan-2025 13:11:14 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[10-Jan-2025 13:11:32 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[10-Jan-2025 13:12:57 America/Sao_Paulo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home2/telaplay/public_html/iboplus/user.php on line 11
+[10-Jan-2025 13:16:54 America/Sao_Paulo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home2/telaplay/public_html/iboplus/user.php on line 11
+[10-Jan-2025 13:18:40 America/Sao_Paulo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home2/telaplay/public_html/iboplus/user.php on line 11
+[10-Jan-2025 21:32:01 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[10-Jan-2025 21:32:12 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[10-Jan-2025 21:52:53 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[10-Jan-2025 21:53:06 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[10-Jan-2025 21:53:10 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[10-Jan-2025 21:53:18 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[10-Jan-2025 22:54:13 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[10-Jan-2025 22:54:56 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[10-Jan-2025 22:55:06 America/Sao_Paulo] PHP Warning:  parse_ini_file(./config.ini): failed to open stream: No such file or directory in /home2/telaplay/public_html/iboplus/index.php on line 4
+[10-Jan-2025 22:55:26 America/Sao_Paulo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home2/telaplay/public_html/iboplus/user.php on line 11
+[14-Feb-2025 23:03:50 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:03:50 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:03:50 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:04:50 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:04:50 America/Mexico_City] PHP Warning:  Undefined variable $id in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 40
+[14-Feb-2025 23:04:50 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/iboplus/index.php:4) in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 55
+[14-Feb-2025 23:04:50 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:04:50 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:04:58 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:04:58 America/Mexico_City] PHP Warning:  Undefined variable $id in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 40
+[14-Feb-2025 23:04:58 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/iboplus/index.php:4) in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 55
+[14-Feb-2025 23:04:58 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:04:58 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:05:12 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:05:12 America/Mexico_City] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 42
+[14-Feb-2025 23:05:12 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/iboplus/index.php:4) in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 49
+[14-Feb-2025 23:05:12 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:05:12 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:05:17 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:05:17 America/Mexico_City] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 42
+[14-Feb-2025 23:05:17 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/iboplus/index.php:4) in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 49
+[14-Feb-2025 23:05:17 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:05:17 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:05:24 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:05:24 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:05:24 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:05:28 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:05:28 America/Mexico_City] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 42
+[14-Feb-2025 23:05:28 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/activawu/wstream.activawudy.com/iboplus/index.php:4) in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 49
+[14-Feb-2025 23:05:28 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:05:28 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:17:02 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:17:02 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:17:02 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:17:04 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:17:04 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:17:04 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:17:04 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:17:04 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:17:04 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:17:05 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:17:05 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:17:05 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:17:05 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:17:05 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:17:05 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:17:06 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:17:06 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:17:06 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:17:15 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:17:15 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:17:15 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:20:32 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:20:32 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:20:32 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:36:24 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:36:24 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:36:24 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:36:45 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:36:45 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:36:45 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:54:09 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:54:09 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:54:09 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:54:10 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:54:10 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:54:10 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:54:20 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:54:20 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:54:20 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:54:56 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:54:56 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:54:56 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:58:51 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:58:51 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:58:51 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:58:57 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:58:57 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:58:57 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:58:58 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:58:58 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:58:58 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:59:20 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:59:20 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:59:20 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[14-Feb-2025 23:59:48 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[14-Feb-2025 23:59:48 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[14-Feb-2025 23:59:48 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[15-Feb-2025 00:00:02 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[15-Feb-2025 00:00:02 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[15-Feb-2025 00:00:02 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[15-Feb-2025 00:00:07 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[15-Feb-2025 00:00:07 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[15-Feb-2025 00:00:07 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[15-Feb-2025 00:00:08 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[15-Feb-2025 00:00:08 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[15-Feb-2025 00:00:08 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[15-Feb-2025 00:00:09 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[15-Feb-2025 00:00:09 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[15-Feb-2025 00:00:09 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[15-Feb-2025 00:00:11 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[15-Feb-2025 00:00:11 America/Mexico_City] PHP Warning:  Undefined variable $id in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 40
+[15-Feb-2025 00:00:11 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[15-Feb-2025 00:00:11 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[15-Feb-2025 00:00:13 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[15-Feb-2025 00:00:13 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[15-Feb-2025 00:00:13 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[15-Feb-2025 00:00:18 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[15-Feb-2025 00:00:18 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[15-Feb-2025 00:00:18 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[15-Feb-2025 00:00:21 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[15-Feb-2025 00:00:21 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[15-Feb-2025 00:00:21 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[15-Feb-2025 00:00:42 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[15-Feb-2025 00:00:42 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[15-Feb-2025 00:00:42 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[15-Feb-2025 00:01:04 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[15-Feb-2025 00:01:04 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[15-Feb-2025 00:01:04 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[16-Feb-2025 10:41:20 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[16-Feb-2025 10:41:20 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[16-Feb-2025 10:41:20 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[16-Feb-2025 10:41:30 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[16-Feb-2025 10:41:30 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[16-Feb-2025 10:41:30 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[16-Feb-2025 15:25:14 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[16-Feb-2025 15:25:14 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[16-Feb-2025 15:25:14 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[16-Feb-2025 15:25:20 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[16-Feb-2025 15:25:20 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[16-Feb-2025 15:25:20 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[16-Feb-2025 15:42:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: The SQLite3 object has not been correctly initialised or is already closed in /home3/activawu/wstream.activawudy.com/iboplus/includes/functions.php:181
+Stack trace:
+#0 /home3/activawu/wstream.activawudy.com/iboplus/includes/functions.php(181): SQLite3->prepare('SELECT * FROM p...')
+#1 /home3/activawu/wstream.activawudy.com/iboplus/playlists.php(20): SQLiteWrapper->select('playlist', '*', 'id = :id', '', Array)
+#2 {main}
+  thrown in /home3/activawu/wstream.activawudy.com/iboplus/includes/functions.php on line 181
+[16-Feb-2025 15:44:55 America/Mexico_City] PHP Warning:  Undefined array key "m3u" in /home3/activawu/wstream.activawudy.com/iboplus/playlists.php on line 165
+[16-Feb-2025 15:45:17 America/Mexico_City] PHP Warning:  Undefined array key "m3u" in /home3/activawu/wstream.activawudy.com/iboplus/playlists.php on line 165
+[16-Feb-2025 15:45:36 America/Mexico_City] PHP Warning:  Undefined array key "m3u" in /home3/activawu/wstream.activawudy.com/iboplus/playlists.php on line 165
+[16-Feb-2025 15:46:49 America/Mexico_City] PHP Warning:  Undefined array key "m3u" in /home3/activawu/wstream.activawudy.com/iboplus/playlists.php on line 165
+[16-Feb-2025 15:50:15 America/Mexico_City] PHP Warning:  Undefined array key "m3u" in /home3/activawu/wstream.activawudy.com/iboplus/playlists.php on line 165
+[16-Feb-2025 15:52:19 America/Mexico_City] PHP Warning:  Undefined array key "m3u" in /home3/activawu/wstream.activawudy.com/iboplus/playlists.php on line 165
+[16-Feb-2025 16:04:09 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[16-Feb-2025 16:04:09 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[16-Feb-2025 16:04:09 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[16-Feb-2025 16:04:12 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[16-Feb-2025 16:04:12 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[16-Feb-2025 16:04:12 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[16-Feb-2025 17:16:50 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[16-Feb-2025 17:16:50 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[16-Feb-2025 17:16:50 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[16-Feb-2025 17:18:03 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[16-Feb-2025 17:18:03 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[16-Feb-2025 17:18:03 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[16-Feb-2025 18:19:32 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[16-Feb-2025 18:19:32 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[16-Feb-2025 18:19:32 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[16-Feb-2025 18:19:35 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[16-Feb-2025 18:19:35 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[16-Feb-2025 18:19:35 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[17-Feb-2025 17:53:20 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[17-Feb-2025 17:53:20 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[17-Feb-2025 17:53:20 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[17-Feb-2025 17:53:25 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[17-Feb-2025 17:53:25 America/Mexico_City] PHP Warning:  Undefined variable $id in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 40
+[17-Feb-2025 17:53:25 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[17-Feb-2025 17:53:25 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[17-Feb-2025 17:53:28 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[17-Feb-2025 17:53:28 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[17-Feb-2025 17:53:28 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161
+[17-Feb-2025 17:53:32 America/Mexico_City] PHP Warning:  parse_ini_file(./config.ini): Failed to open stream: No such file or directory in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 4
+[17-Feb-2025 17:53:32 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 159
+[17-Feb-2025 17:53:32 America/Mexico_City] PHP Warning:  Trying to access array offset on false in /home3/activawu/wstream.activawudy.com/iboplus/index.php on line 161

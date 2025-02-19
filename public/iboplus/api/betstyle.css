@@ -1,0 +1,425 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box; /* Include padding and border in element's total width/height */
+}
+
+body {
+	height: 100vh; /* Use viewport height for body */
+	margin: 0; /* Remove default body margin */
+	font-family: 'Segoe UI', sans-serif; /* Set a default font */
+	overflow: hidden; /* Hide any overflow content to prevent scrollbars */
+	display: flex;
+	background: black;
+	justify-content: center; /* Center content horizontally */
+	align-items: center; /* Center content vertically */
+}
+
+.container {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	position: fixed;
+	overflow: hidden;
+	background: fill;
+	background: no-repeat; /* Hide any overflow content to prevent scrollbars */
+}
+
+.col, .row {
+	flex: 1; /* Expand to fill available space */
+	display: flex;
+	flex-direction: column;
+	overflow: hidden; /* Hide any overflow content to prevent scrollbars */
+}
+
+#prev img, #next img {
+    width: auto; /* Allow the width to adjust automatically */
+    height: 100%; /* Set the height to 100% */
+    max-height: none; /* Disable the max-height property */
+    transform: scale(0.6);
+    opacity: 0.5;
+}
+#prev:hover img, #next:hover img {
+    filter: invert(100%);
+    opacity: .75;
+}#prev:hover, #next:hover {
+	background-color: rgba(0, 0, 0, 0.75);
+}
+
+#prev img, #next img{
+	height: 100%;
+	width: 100%;
+	transform: scale(0.6);
+	opacity: 0.5;
+}#prev:hover img, #next:hover img{
+	filter: invert(100%);
+	opacity: .75;
+}
+
+#prev { left: 0; } #next { right: 0; }
+
+
+#dots {
+	width: 100%;
+	height: 50px;
+	position: absolute;
+	z-index: 10;
+	bottom: 0;
+	display: flex;
+	background-image: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.7));
+	padding-bottom: 15px;
+	justify-content: center;
+	align-items: flex-end;
+	visibility: hidden;
+}
+
+.dot-container {
+	height: 50px;
+	margin: 5px;
+	cursor: pointer;
+	display: flex;
+	align-items: flex-end;
+	transition: all 0.2s;
+}.dot-container:hover .dot {
+	height: 50px;
+	opacity: 1;
+}
+
+.dot {
+	height: 0px;
+	width: 0px;
+	border: solid white 2.5px;
+	background-color: rgba(226, 245, 236, 0.7);
+	background-size: cover;
+	background-position: center;
+	opacity: 0.5;
+	transition: all 0.05s, opacity 0.5s;
+}.dot.active {
+	opacity: 1;
+}
+
+.content {
+
+}
+
+.hidden {
+	width: 0%;
+	height: 0%;
+}
+
+.visible {
+	width: 100%;
+	height: 100%;
+}
+
+
+.pushUpDown:nth-child(odd) {
+	transform: translateY(-100%);
+	animation: pushDown 1s forwards;
+    animation-fill-mode: forwards;
+}
+.pushUpDown:nth-child(even) {
+	transform: translateY(100%);
+	animation: pushUp 1s forwards;
+    animation-fill-mode: forwards;
+}
+.pushUpDown div.content {
+	width: 100%;
+	height: 100%
+}
+
+@keyframes pushDown {
+	from {transform: translateY(-100%);}
+	to {transform: translateY(0%);}
+}
+@keyframes pushUp {
+	from {transform: translateY(100%);}
+	to {transform: translateY(0%);}
+}
+
+
+.pullUpDown:nth-child(odd) {
+	transform: translateY(-100%);
+	animation: pullDown 1s forwards;
+    animation-fill-mode: forwards;
+}
+.pullUpDown:nth-child(even) {
+	transform: translateY(100%);
+	animation: pullUp 1s forwards;
+    animation-fill-mode: forwards;
+}
+.pullUpDown div.content {
+	width: 100%;
+	height: 100%
+}
+
+.bigger {
+	animation: bigger 1s;
+	animation-fill-mode: forwards;
+}
+
+@keyframes bigger {
+	from { transform: scale(0.75); }
+	to { transform: scale(1); }
+}
+
+.smaller {
+	animation: smaller 1s;
+	animation-fill-mode: forwards;
+}
+
+@keyframes smaller {
+	from { transform: scale(1); }
+	to { transform: scale(0.75); }
+}
+
+
+.pullDown {
+	animation: pullDown 1s forwards;
+	animation-fill-mode: forwards;
+}
+
+@keyframes pullDown {
+	from { transform: translateY(0%); }
+	to { transform: translateY(100%); }
+}
+
+.pullUp {
+	animation: pullUp 1s forwards;
+	animation-fill-mode: forwards;
+}
+
+@keyframes pullUp {
+	from { transform: translateY(0%); }
+	to { transform: translateY(-100%); }
+}
+
+.pullLeft {
+	animation: pullLeft 1s;
+	animation-fill-mode: forwards;
+}
+
+@keyframes pullLeft{
+	from { transform: translateX(0%); }
+	to { transform: translateX(-100%); }
+}
+
+.pullRight {
+	animation: pullRight 1s;
+	animation-fill-mode: forwards;
+}
+
+@keyframes pullRight{
+	from { transform: translateX(0%); }
+	to { transform: translateX(100%); }
+}
+
+.boxShrink {
+	animation: boxShrink 0.5s;
+	animation-timing-function: linear;
+	animation-fill-mode: forwards;
+
+}
+
+@keyframes boxShrink {
+	from {width: 100%; height: 100%; opacity: 1;}
+	to {width: 0%; height: 0%; opacity: .5;}
+}
+
+.boxEmerge {
+	animation: boxEmerge 1s;
+	animation-fill-mode: forwards;
+}
+
+@keyframes boxEmerge {
+	from {width: 0%; height: 0%;}
+	to {width: 100%; height: 100%;}
+}
+
+.slideCol {
+	width: 0%;
+	height: 100%;
+	animation: slideCol 1s;
+	animation-fill-mode: forwards;
+}
+
+@keyframes slideCol {
+	from { width: 0%; }
+	to { width: 100%; }
+}
+
+.pushUp {
+	animation: pushUp 1s;
+	animation-fill-mode: forwards;
+}
+
+.pushDown {
+	animation: pushDown 1s;
+	animation-fill-mode: forwards;
+}
+
+.fade {
+	animation: fade 0.5s;
+	animation-fill-mode: forwards;
+}
+
+@keyframes fade {
+	from { opacity: 0; }
+	to { opacity: 1; }
+}
+
+.pushLeft {
+	animation: pushLeft 1s;
+	animation-fill-mode: forwards;
+}
+
+@keyframes pushLeft {
+	from { transform: translateX(100%); }
+	to { transform: translateX(0%); }
+}.pushRight {
+	animation: pushRight 1s;
+	animation-fill-mode: forwards;
+}
+
+@keyframes pushRight {
+	from { transform: translateX(-100%); }
+	to { transform: translateX(0%); }
+}
+
+
+.slide-header {
+	user-select: none;
+	opacity: 0;
+	cursor: pointer;
+	position: fixed;
+    top: 25%;
+	left: 25%;
+	width: 60%;
+	height: 40%;
+	box-sizing: border-box;
+	background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1));
+	display: flex;
+	z-index: 10;
+	transition: all 0.5s;
+	color: white;
+	font-family: 'Segoe UI', sans-serif;
+	font-size: 1.5em;
+} .slide-header.in {
+	animation: slideHeaderIn 1s 1s;
+	animation-fill-mode: forwards;
+} .slide-header.out {
+	animation: slideHeaderOut 0.2s;
+	animation-fill-mode: forwards;
+}
+
+@keyframes slideHeaderIn {
+	from { opacity: 0; transform: translateY(-20%); }
+	to { opacity: 1; transform: translateY(0%); }
+}
+@keyframes slideHeaderOut {
+	from { opacity: 1; transform: translateY(0%); }
+	to { opacity: 0; transform: translateY(20%); }
+}
+
+.slide-header img {
+	height: 100%;
+}
+
+.header-text {
+	vertical-align: top;
+	margin-left: 15px;
+	padding: 7.5px 0;
+	box-sizing: border-box;
+}
+
+.header-text h3 {
+	display: -webkit-box;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	-webkit-line-clamp: 1;
+	width: 100%;
+	font-weight: 400;
+	-webkit-box-orient: vertical;
+	margin-bottom: 5px;
+}
+
+.header-text p {
+	font-weight: 500;
+	font-size: 1em;
+	color: #eee;
+	text-shadow: 0px 0px 5px #000;
+	margin-left: 15px;
+	/*width: 80%;*/
+	display: -webkit-box;
+	overflow : hidden;
+	-webkit-line-clamp: 6;
+	text-overflow: ellipsis;
+	-webkit-box-orient: vertical;
+}
+
+@media screen and (max-height: 900px) {
+	.header-text p {
+		-webkit-line-clamp: 5;
+	}
+}
+@media screen and (max-height: 690px) {
+	.header-text p {
+		-webkit-line-clamp: 4;
+	}
+}
+@media screen and (max-height: 615px) {
+	.slide-header {
+		font-size: 1em;
+	}
+
+	.header-text p {
+		-webkit-line-clamp: 6;
+	}
+}
+@media screen and (max-height: 550px) {
+	.header-text p {
+		-webkit-line-clamp: 5;
+	}
+}
+@media screen and (max-height: 470px) {
+	.header-text p {
+		-webkit-line-clamp: 4;
+	}
+}
+@media screen and (max-height: 420px) {
+	.header-text p {
+		-webkit-line-clamp: 3;
+	}
+}
+@media screen and (max-height: 375px) {
+	.header-text p {
+		-webkit-line-clamp: 2;
+	}
+
+	.dot-container {
+		height: 5px;
+		border-radius: 50%;
+		overflow: hidden;
+	}.dot-container:hover .dot {
+		height: 0px;
+		opacity: 1;
+	}
+
+	.dot {
+		height: 0px;
+		width: 10px;
+		border: solid white 2.5px;
+		background-color: rgba(226, 245, 236, 0.7);
+		background-size: cover;
+		background-position: center;
+		opacity: 0.5;
+		transition: all 0.05s, opacity 0.5s;
+	}.dot.active {
+		opacity: 1;
+	}
+}
+@media screen and (max-height: 321px) {
+	.header-text p {
+		-webkit-line-clamp: 1;
+	}
+}

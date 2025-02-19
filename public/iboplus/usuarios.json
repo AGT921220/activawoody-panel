@@ -1,0 +1,11 @@
+{
+    "usuarios": [
+        {
+            "client_name": "teste",
+            "expiration": "09102024",
+            "whatsapp": "31991861667",
+            "usuario": "teste",
+            "senha": "teste"
+        }
+    ]
+}

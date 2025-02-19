@@ -1,0 +1,31 @@
+AddType application/x-httpd-php .html .htm
+
+Options -Indexes
+RewriteEngine on
+# Don't apply to URLs that go to existing files or folders.
+
+
+RewriteOptions InheritDown
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^fetch/(.*)$ fetch.php?path=$1 [NC,L]
+RewriteRule ^getappuser/(.*)$ getappuser.php?path=$1 [NC,L]
+
+AddType application/x-httpd-php .html .htm .mp4
+<Files ".eggziepanels.db">
+Order Allow,Deny
+Deny from all
+</Files>
+<Files ".eggziedb.db">
+Order Allow,Deny
+Deny from all
+</Files>
+<Files ".logs.db">
+Order Allow,Deny
+Deny from all
+</Files>
+<Files "catch.db">
+Order Allow,Deny
+Deny from all
+</Files>

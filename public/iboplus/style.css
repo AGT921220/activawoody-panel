@@ -1,0 +1,79 @@
+/* Reseta margens e paddings */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f7f6;
+}
+
+/* Cartões principais */
+.card {
+    border-radius: 10px;
+    border: none;
+}
+
+.card-header {
+    font-size: 1.25rem;
+    padding: 10px;
+    background-color: #333;
+    border-radius: 10px 10px 0 0;
+}
+
+/* Estilos para os clientes */
+.list-group-item {
+    padding: 10px;
+    border: none;
+}
+
+.list-group-item:hover {
+    background-color: #f1f1f1;
+}
+
+.text-white {
+    color: white !important;
+}
+
+.bg-danger { background-color: #e74c3c !important; }
+.bg-warning { background-color: #f39c12 !important; }
+.bg-primary { background-color: #3498db !important; }
+.bg-success { background-color: #2ecc71 !important; }
+
+/* Botões */
+.btn {
+    border-radius: 20px;
+    padding: 5px 15px;
+    text-transform: uppercase;
+}
+
+.btn-sm {
+    font-size: 0.875rem;
+}
+
+/* Cores dos botões */
+.btn-light {
+    background-color: #fff;
+    color: #333;
+}
+
+.btn-info {
+    background-color: #17a2b8;
+    color: white;
+}
+
+/* Layout da página */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Título da página */
+h2 {
+    font-size: 2rem;
+    color: #333;
+    font-weight: bold;
+}

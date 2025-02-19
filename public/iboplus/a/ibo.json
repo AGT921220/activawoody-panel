@@ -1,0 +1,16 @@
+{
+  "android_version_code": "1.1",
+  "apk_url": "https://iboiptv.com/upload/android_1.1.apk",
+  "mac_registered": true,
+  "urls": [
+    {
+      "url": "http://stream.ibocdn.com:25461/get.php?username=iboplayerd&password=lsfDvc2E7u&type=m3u&output=mpegts",
+      "epg_url": "",
+      "playlist_name": "TEVIN_HOME",
+      "username": "0264279762",
+      "password": "0264279762",
+      "playlist_type": "general",
+      "id": "HOME_USE"
+    }
+  ]
+}

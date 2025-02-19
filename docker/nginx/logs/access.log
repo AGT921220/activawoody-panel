@@ -169,3 +169,8 @@
 192.168.32.1 - - [19/Feb/2025:01:38:34 +0000] "GET /user.php HTTP/1.1" 200 3693 "http://localhost:8087/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
 192.168.32.1 - - [19/Feb/2025:01:38:38 +0000] "GET /intro.php HTTP/1.1" 200 4675 "http://localhost:8087/user.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
 192.168.32.1 - - [19/Feb/2025:01:38:38 +0000] "GET /img/blank.mp4?1739929118%20type= HTTP/1.1" 206 665 "http://localhost:8087/intro.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+192.168.32.1 - - [19/Feb/2025:02:07:30 +0000] "GET / HTTP/1.1" 302 2707 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+192.168.32.1 - - [19/Feb/2025:02:07:31 +0000] "GET /dns.php HTTP/1.1" 200 4301 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+192.168.32.1 - - [19/Feb/2025:02:07:32 +0000] "GET /loader-wizard.php HTTP/1.1" 200 4521 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+192.168.32.1 - - [19/Feb/2025:02:07:32 +0000] "GET /loader-wizard.php?page=css HTTP/1.1" 200 4503 "http://localhost:8087/loader-wizard.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+192.168.32.1 - - [19/Feb/2025:02:07:32 +0000] "GET /loader-wizard.php?page=logo HTTP/1.1" 200 1640 "http://localhost:8087/loader-wizard.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
