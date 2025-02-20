@@ -1,5 +1,5 @@
-# Usa la imagen base de PHP 8.2 con FPM
-FROM php:8.2-fpm
+# Usa la imagen base de PHP 7.2 con FPM
+FROM php:7.2-fpm
 
 # Evita prompts durante la instalación de paquetes
 ENV DEBIAN_FRONTEND=noninteractive
@@ -20,7 +20,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     libxml2-dev \
     libpq-dev \
     curl \
-    && docker-php-ext-configure gd --with-freetype --with-jpeg \
+    && docker-php-ext-configure gd --with-freetype-dir=/usr/include/freetype2 --with-jpeg-dir=/usr/include \
     && docker-php-ext-install -j$(nproc) \
        mysqli \
        pdo_mysql \
@@ -35,20 +35,20 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     && rm -rf /var/lib/apt/lists/*
 
 # ---------------------------------------------------
-# 2. Instalar y habilitar Xdebug (versión compatible para PHP 8.2)
+# 2. Instalar y habilitar Xdebug (versión compatible para PHP 7.2)
 # ---------------------------------------------------
-RUN pecl install xdebug \
+RUN pecl install xdebug-2.9.8 \
     && docker-php-ext-enable xdebug
 
 # ---------------------------------------------------
-# 3. Instalar IonCube Loader para PHP 8.2
+# 3. Instalar IonCube Loader para PHP 7.2
 # ---------------------------------------------------
 RUN EXT_DIR=$(php -i | awk '/^extension_dir/ {print $3}') && \
     mkdir /tmp/ioncube && cd /tmp/ioncube && \
     curl -fsSL https://downloads.ioncube.com/loader_downloads/ioncube_loaders_lin_x86-64.tar.gz -o ioncube_loaders.tar.gz && \
     tar -xzf ioncube_loaders.tar.gz && \
-    mv ioncube/ioncube_loader_lin_8.2.so $EXT_DIR/ioncube_loader_lin_8.2.so && \
-    echo "zend_extension=$EXT_DIR/ioncube_loader_lin_8.2.so" > /usr/local/etc/php/conf.d/00-ioncube.ini && \
+    mv ioncube/ioncube_loader_lin_7.2.so $EXT_DIR/ioncube_loader_lin_7.2.so && \
+    echo "zend_extension=$EXT_DIR/ioncube_loader_lin_7.2.so" > /usr/local/etc/php/conf.d/00-ioncube.ini && \
     cd ~ && rm -rf /tmp/ioncube
 
 # ---------------------------------------------------
