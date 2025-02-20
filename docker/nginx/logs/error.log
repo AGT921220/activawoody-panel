@@ -332,3 +332,98 @@
 2025/02/19 01:37:38 [error] 32#32: *10 open() "/var/www/html/public404" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /api/index.php HTTP/1.1", host: "localhost:8087", referrer: "http://localhost:8087/"
 2025/02/19 01:37:45 [error] 32#32: *10 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: id in /var/www/html/public/index.php on line 0" while reading response header from upstream, client: 192.168.32.1, server: localhost, request: "POST / HTTP/1.1", upstream: "fastcgi://192.168.32.2:9000", host: "localhost:8087", referrer: "http://localhost:8087/"
 2025/02/19 01:37:45 [error] 32#32: *10 open() "/var/www/html/public404" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /api/index.php HTTP/1.1", host: "localhost:8087", referrer: "http://localhost:8087/"
+2025/02/19 03:44:56 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/02/19 03:44:56 [notice] 29#29: gracefully shutting down
+2025/02/19 03:44:56 [notice] 31#31: gracefully shutting down
+2025/02/19 03:44:56 [notice] 32#32: gracefully shutting down
+2025/02/19 03:44:56 [notice] 30#30: gracefully shutting down
+2025/02/19 03:44:56 [notice] 33#33: gracefully shutting down
+2025/02/19 03:44:56 [notice] 34#34: gracefully shutting down
+2025/02/19 03:44:56 [notice] 31#31: exiting
+2025/02/19 03:44:56 [notice] 29#29: exiting
+2025/02/19 03:44:56 [notice] 32#32: exiting
+2025/02/19 03:44:56 [notice] 30#30: exiting
+2025/02/19 03:44:56 [notice] 33#33: exiting
+2025/02/19 03:44:56 [notice] 34#34: exiting
+2025/02/19 03:44:56 [notice] 35#35: gracefully shutting down
+2025/02/19 03:44:56 [notice] 35#35: exiting
+2025/02/19 03:44:56 [notice] 31#31: exit
+2025/02/19 03:44:56 [notice] 29#29: exit
+2025/02/19 03:44:56 [notice] 36#36: gracefully shutting down
+2025/02/19 03:44:56 [notice] 30#30: exit
+2025/02/19 03:44:56 [notice] 33#33: exit
+2025/02/19 03:44:56 [notice] 32#32: exit
+2025/02/19 03:44:56 [notice] 34#34: exit
+2025/02/19 03:44:56 [notice] 35#35: exit
+2025/02/19 03:44:56 [notice] 36#36: exiting
+2025/02/19 03:44:56 [notice] 36#36: exit
+2025/02/19 03:44:56 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2025/02/19 03:44:56 [notice] 1#1: worker process 31 exited with code 0
+2025/02/19 03:44:56 [notice] 1#1: signal 29 (SIGIO) received
+2025/02/19 03:44:56 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2025/02/19 03:44:56 [notice] 1#1: worker process 33 exited with code 0
+2025/02/19 03:44:56 [notice] 1#1: worker process 29 exited with code 0
+2025/02/19 03:44:56 [notice] 1#1: worker process 34 exited with code 0
+2025/02/19 03:44:56 [notice] 1#1: worker process 35 exited with code 0
+2025/02/19 03:44:56 [notice] 1#1: worker process 36 exited with code 0
+2025/02/19 03:44:56 [notice] 1#1: signal 29 (SIGIO) received
+2025/02/19 03:44:56 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2025/02/19 03:44:56 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2025/02/19 03:44:56 [notice] 1#1: worker process 32 exited with code 0
+2025/02/19 03:44:56 [notice] 1#1: signal 29 (SIGIO) received
+2025/02/19 03:44:56 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2025/02/19 03:44:56 [notice] 1#1: worker process 30 exited with code 0
+2025/02/19 03:44:56 [notice] 1#1: exit
+2025/02/20 01:00:31 [notice] 1#1: using the "epoll" event method
+2025/02/20 01:00:31 [notice] 1#1: nginx/1.26.0
+2025/02/20 01:00:31 [notice] 1#1: built by gcc 13.2.1 20231014 (Alpine 13.2.1_git20231014) 
+2025/02/20 01:00:31 [notice] 1#1: OS: Linux 6.8.0-52-generic
+2025/02/20 01:00:31 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/02/20 01:00:31 [notice] 1#1: start worker processes
+2025/02/20 01:00:31 [notice] 1#1: start worker process 29
+2025/02/20 01:00:31 [notice] 1#1: start worker process 30
+2025/02/20 01:00:31 [notice] 1#1: start worker process 31
+2025/02/20 01:00:31 [notice] 1#1: start worker process 32
+2025/02/20 01:00:31 [notice] 1#1: start worker process 33
+2025/02/20 01:00:31 [notice] 1#1: start worker process 34
+2025/02/20 01:00:31 [notice] 1#1: start worker process 35
+2025/02/20 01:00:31 [notice] 1#1: start worker process 36
+2025/02/20 01:08:03 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/02/20 01:08:03 [notice] 29#29: gracefully shutting down
+2025/02/20 01:08:03 [notice] 31#31: gracefully shutting down
+2025/02/20 01:08:03 [notice] 35#35: gracefully shutting down
+2025/02/20 01:08:03 [notice] 30#30: gracefully shutting down
+2025/02/20 01:08:03 [notice] 33#33: gracefully shutting down
+2025/02/20 01:08:03 [notice] 32#32: gracefully shutting down
+2025/02/20 01:08:03 [notice] 29#29: exiting
+2025/02/20 01:08:03 [notice] 31#31: exiting
+2025/02/20 01:08:03 [notice] 35#35: exiting
+2025/02/20 01:08:03 [notice] 30#30: exiting
+2025/02/20 01:08:03 [notice] 33#33: exiting
+2025/02/20 01:08:03 [notice] 32#32: exiting
+2025/02/20 01:08:03 [notice] 29#29: exit
+2025/02/20 01:08:03 [notice] 31#31: exit
+2025/02/20 01:08:03 [notice] 30#30: exit
+2025/02/20 01:08:03 [notice] 35#35: exit
+2025/02/20 01:08:03 [notice] 33#33: exit
+2025/02/20 01:08:03 [notice] 32#32: exit
+2025/02/20 01:08:03 [notice] 34#34: gracefully shutting down
+2025/02/20 01:08:03 [notice] 34#34: exiting
+2025/02/20 01:08:03 [notice] 34#34: exit
+2025/02/20 01:08:03 [notice] 36#36: gracefully shutting down
+2025/02/20 01:08:03 [notice] 36#36: exiting
+2025/02/20 01:08:03 [notice] 36#36: exit
+2025/02/20 01:08:04 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2025/02/20 01:08:04 [notice] 1#1: worker process 29 exited with code 0
+2025/02/20 01:08:04 [notice] 1#1: worker process 32 exited with code 0
+2025/02/20 01:08:04 [notice] 1#1: worker process 34 exited with code 0
+2025/02/20 01:08:04 [notice] 1#1: worker process 35 exited with code 0
+2025/02/20 01:08:04 [notice] 1#1: signal 29 (SIGIO) received
+2025/02/20 01:08:04 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2025/02/20 01:08:04 [notice] 1#1: worker process 36 exited with code 0
+2025/02/20 01:08:04 [notice] 1#1: signal 29 (SIGIO) received
+2025/02/20 01:08:04 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2025/02/20 01:08:04 [notice] 1#1: worker process 31 exited with code 0
+2025/02/20 01:08:04 [notice] 1#1: worker process 30 exited with code 0
+2025/02/20 01:08:04 [notice] 1#1: worker process 33 exited with code 0
+2025/02/20 01:08:04 [notice] 1#1: exit
